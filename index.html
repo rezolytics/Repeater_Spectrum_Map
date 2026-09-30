@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Repeater Spectrum Map</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    document.documentElement.dataset.theme = localStorage.getItem("spectrum-theme") || "dark";
+  </script>
+</head>
+<body data-view="spectrum">
+  <header class="top">
+    <div class="brand">
+      <p class="eyebrow" id="eyebrow">New England</p>
+      <h1>Repeater Spectrum Map</h1>
+    </div>
+    <nav class="regions" id="region-tabs" aria-label="Directory region">
+      <button type="button" data-region="ne" aria-pressed="true">New England</button>
+      <button type="button" data-region="ny" aria-pressed="false">New York</button>
+    </nav>
+    <nav class="bands" id="band-tabs" aria-label="Amateur bands"></nav>
+    <nav class="view-tabs" id="view-tabs" aria-label="View">
+      <button type="button" data-view="spectrum" aria-pressed="true">Spectrum</button>
+      <button type="button" data-view="map">Map</button>
+    </nav>
+    <p class="stats" id="stats">Loading listings…</p>
+    <button type="button" class="ghost theme-toggle" id="theme-toggle" aria-label="Switch to light theme">Light</button>
+  </header>
+
+  <section class="source" aria-label="Data source">
+    <p class="source-kicker">Public CSV files</p>
+    <p class="source-lead"><strong>Every mark on this page is plotted from the public CSV files these websites publish.</strong> New England comes from <a href="https://www.nerepeaters.com/NERepeaters.php" target="_blank" rel="noreferrer">nerepeaters.com</a>. New York City, Long Island, and eastern New York come from <a href="https://www.nyrepeaters.com/NYCRepeaters.php" target="_blank" rel="noreferrer">nyrepeaters.com</a>.</p>
+    <ul class="source-files" id="source-files">
+      <li data-source="ne" data-active="true">
+        <a class="file-name" href="https://www.nerepeaters.com/NERepeaters.php" target="_blank" rel="noreferrer">NERepeaters.csv</a>
+        <span class="file-url">nerepeaters.com/NERepeaters.php</span>
+        <a class="file-note" href="https://www.nerepeaters.com/" target="_blank" rel="noreferrer">New England Repeater Directory</a>
+        <span class="file-badge">Plotting this view</span>
+      </li>
+      <li data-source="nyc" data-active="false">
+        <a class="file-name" href="https://www.nyrepeaters.com/NYCRepeaters.php" target="_blank" rel="noreferrer">NYCRepeaters.csv</a>
+        <span class="file-url">nyrepeaters.com/NYCRepeaters.php</span>
+        <a class="file-note" href="https://www.nyrepeaters.com/" target="_blank" rel="noreferrer">New York City &amp; Long Island</a>
+        <span class="file-badge" hidden>Plotting this view</span>
+      </li>
+      <li data-source="eny" data-active="false">
+        <a class="file-name" href="https://www.nyrepeaters.com/ENYRepeaters.php" target="_blank" rel="noreferrer">ENYRepeaters.csv</a>
+        <span class="file-url">nyrepeaters.com/ENYRepeaters.php</span>
+        <a class="file-note" href="https://www.nyrepeaters.com/" target="_blank" rel="noreferrer">Eastern New York</a>
+        <span class="file-badge" hidden>Plotting this view</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="toolbar" aria-label="Filters">
+    <label class="search">
+      <span class="sr-only">Search</span>
+      <input id="search" type="search" placeholder="Call, city, frequency" autocomplete="off">
+    </label>
+    <div class="filter-group" id="state-filters"></div>
+    <div class="filter-group" id="area-filters" hidden></div>
+    <div class="filter-group" id="mode-filters"></div>
+    <label class="check">
+      <input id="hide-off" type="checkbox">
+      Hide off-air
+    </label>
+    <div class="filter-group pair-mode" id="pair-mode" role="group" aria-label="Show inputs or outputs">
+      <button type="button" data-pair="output">Outputs</button>
+      <button type="button" data-pair="input">Inputs</button>
+      <button type="button" data-pair="both" aria-pressed="true">Both</button>
+    </div>
+    <label class="color-mode">
+      Color
+      <select id="color-by">
+        <option value="state">State</option>
+        <option value="mode">Mode</option>
+      </select>
+    </label>
+    <button type="button" class="ghost" id="reset-view">Reset view</button>
+  </section>
+
+  <section class="minimap-wrap">
+    <div id="minimap" class="minimap" role="img" aria-label="Full 2 meter band overview"></div>
+  </section>
+
+  <main class="stage">
+    <div id="spectrum" class="spectrum" role="img" aria-label="Zoomable 2 meter frequency ruler"></div>
+    <div id="map" class="geo-map" hidden role="img" aria-label="New England repeater map"></div>
+    <p class="hint" id="spectrum-hint">Scroll to zoom · drag to pan · double-click to reset · click a machine for its pair · dashed lines: <span class="legend-call">calling</span> · <span class="legend-aprs">APRS / digital</span> · <span class="legend-iss">ISS</span></p>
+    <p class="hint" id="map-hint" hidden>Pins sit at NERD city or summit names, not exact towers · click a pin for every machine at that site</p>
+  </main>
+
+  <aside class="detail" id="detail">
+    <p class="detail-empty">Click a repeater to see call, tones, offset, and the input/output pair.</p>
+  </aside>
+
+  <footer>
+    Plotted from the public CSV files linked above.
+    Band-plan regions follow common ARRL usage and are not a coordination tool.
+    Refresh with <code>python3 scripts/import_nerd.py</code> and <code>python3 scripts/import_nyrd.py</code>.
+    Map pins from <code>python3 scripts/geocode_sites.py</code>.
+  </footer>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

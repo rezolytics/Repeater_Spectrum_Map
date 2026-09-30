@@ -1,0 +1,2061 @@
+{
+  "Brooklyn|NY": {
+    "lat": 40.68278,
+    "lon": -73.98186,
+    "label": "Brooklyn, NY",
+    "source": "photon",
+    "query": "Brooklyn, New York, USA"
+  },
+  "Syracuse|NY": {
+    "lat": 43.06908,
+    "lon": -76.17237,
+    "label": "Syracuse, NY",
+    "source": "photon",
+    "query": "Syracuse, New York, USA"
+  },
+  "Manhattan|NY": {
+    "lat": 40.73661,
+    "lon": -73.9923,
+    "label": "Manhattan, NY",
+    "source": "photon",
+    "query": "Manhattan, New York, USA"
+  },
+  "Walton|NY": {
+    "lat": 42.16953,
+    "lon": -75.12934,
+    "label": "Walton, NY",
+    "source": "photon",
+    "query": "Walton, New York, USA"
+  },
+  "Long Island City|NY": {
+    "lat": 40.74553,
+    "lon": -73.9485,
+    "label": "Long Island City, NY",
+    "source": "photon",
+    "query": "Long Island City, New York, USA"
+  },
+  "Wurtsboro|NY": {
+    "lat": 41.57676,
+    "lon": -74.4871,
+    "label": "Wurtsboro, NY",
+    "source": "photon",
+    "query": "Wurtsboro, New York, USA"
+  },
+  "Orangetown|NY": {
+    "lat": 41.05861,
+    "lon": -73.96167,
+    "label": "Orangetown, NY",
+    "source": "photon",
+    "query": "Orangetown, New York, USA"
+  },
+  "Hardyston Twp.|NJ": {
+    "lat": 41.12677,
+    "lon": -74.57172,
+    "label": "Hardyston Twp., NJ",
+    "source": "nominatim",
+    "query": "Hardyston Twp., New Jersey, USA"
+  },
+  "Harriman|NY": {
+    "lat": 41.30843,
+    "lon": -74.14459,
+    "label": "Harriman, NY",
+    "source": "photon",
+    "query": "Harriman, New York, USA"
+  },
+  "Paramus|NJ": {
+    "lat": 40.91027,
+    "lon": -74.06973,
+    "label": "Paramus, NJ",
+    "source": "photon",
+    "query": "Paramus, New Jersey, USA"
+  },
+  "Melville|NY": {
+    "lat": 40.78359,
+    "lon": -73.40756,
+    "label": "Melville, NY",
+    "source": "nominatim",
+    "query": "Melville, New York, USA"
+  },
+  "Mt. Beacon|NY": {
+    "lat": 41.48854,
+    "lon": -73.94062,
+    "label": "Mt. Beacon, NY",
+    "source": "photon",
+    "query": "Mount Beacon, Beacon, New York, USA"
+  },
+  "Staten Island|NY": {
+    "lat": 40.5722,
+    "lon": -74.11328,
+    "label": "Staten Island, NY",
+    "source": "photon",
+    "query": "Staten Island, New York, USA"
+  },
+  "Holmdel|NJ": {
+    "lat": 40.34511,
+    "lon": -74.18403,
+    "label": "Holmdel, NJ",
+    "source": "photon",
+    "query": "Holmdel, New Jersey, USA"
+  },
+  "Jefferson Twp.|NJ": {
+    "lat": 40.95794,
+    "lon": -74.59757,
+    "label": "Jefferson Twp., NJ",
+    "source": "photon",
+    "query": "Jefferson Twp., New Jersey, USA"
+  },
+  "Wallkill|NY": {
+    "lat": 41.4637,
+    "lon": -74.37242,
+    "label": "Wallkill, NY",
+    "source": "nominatim",
+    "query": "Wallkill, New York, USA"
+  },
+  "West Shokan|NY": {
+    "lat": 41.96728,
+    "lon": -74.2871,
+    "label": "West Shokan, NY",
+    "source": "photon",
+    "query": "West Shokan, New York, USA"
+  },
+  "Woodstock|NY": {
+    "lat": 42.04106,
+    "lon": -74.11825,
+    "label": "Woodstock, NY",
+    "source": "photon",
+    "query": "Woodstock, New York, USA"
+  },
+  "Reynoldston|NY": {
+    "lat": 44.74311,
+    "lon": -74.44961,
+    "label": "Reynoldston, NY",
+    "source": "photon",
+    "query": "Reynoldston, New York, USA"
+  },
+  "Cragsmoor|NY": {
+    "lat": 41.67343,
+    "lon": -74.38543,
+    "label": "Cragsmoor, NY",
+    "source": "photon",
+    "query": "Cragsmoor, New York, USA"
+  },
+  "Stamford|NY": {
+    "lat": 42.4073,
+    "lon": -74.61432,
+    "label": "Stamford, NY",
+    "source": "photon",
+    "query": "Stamford, New York, USA"
+  },
+  "Mineville|NY": {
+    "lat": 44.08853,
+    "lon": -73.51591,
+    "label": "Mineville, NY",
+    "source": "photon",
+    "query": "Mineville, New York, USA"
+  },
+  "Gloversville|NY": {
+    "lat": 43.0505,
+    "lon": -74.34576,
+    "label": "Gloversville, NY",
+    "source": "photon",
+    "query": "Gloversville, New York, USA"
+  },
+  "Albany|NY": {
+    "lat": 42.68404,
+    "lon": -73.84777,
+    "label": "Albany, NY",
+    "source": "photon",
+    "query": "Albany, New York, USA"
+  },
+  "Sam's Point|NY": {
+    "lat": 41.67038,
+    "lon": -74.36166,
+    "label": "Sam's Point, NY",
+    "source": "photon",
+    "query": "Sam's Point Preserve, Cragsmoor, New York, USA"
+  },
+  "Plattsburgh|NY": {
+    "lat": 44.69609,
+    "lon": -73.45429,
+    "label": "Plattsburgh, NY",
+    "source": "photon",
+    "query": "Plattsburgh, New York, USA"
+  },
+  "Farmingdale|NJ": {
+    "lat": 40.1965,
+    "lon": -74.16848,
+    "label": "Farmingdale, NJ",
+    "source": "photon",
+    "query": "Farmingdale, New Jersey, USA"
+  },
+  "Carmel|NY": {
+    "lat": 41.42664,
+    "lon": -73.67883,
+    "label": "Carmel, NY",
+    "source": "photon",
+    "query": "Carmel, New York, USA"
+  },
+  "Martinsville|NJ": {
+    "lat": 40.60121,
+    "lon": -74.55905,
+    "label": "Martinsville, NJ",
+    "source": "photon",
+    "query": "Martinsville, New Jersey, USA"
+  },
+  "Valhalla|NY": {
+    "lat": 41.07521,
+    "lon": -73.77501,
+    "label": "Valhalla, NY",
+    "source": "photon",
+    "query": "Valhalla, New York, USA"
+  },
+  "Newton|NJ": {
+    "lat": 41.05831,
+    "lon": -74.75314,
+    "label": "Newton, NJ",
+    "source": "photon",
+    "query": "Newton, New Jersey, USA"
+  },
+  "Port Jefferson|NY": {
+    "lat": 40.94651,
+    "lon": -73.06913,
+    "label": "Port Jefferson, NY",
+    "source": "photon",
+    "query": "Port Jefferson, New York, USA"
+  },
+  "Greenwood Lake|NY": {
+    "lat": 41.22259,
+    "lon": -74.29432,
+    "label": "Greenwood Lake, NY",
+    "source": "photon",
+    "query": "Greenwood Lake, New York, USA"
+  },
+  "Manchester|NJ": {
+    "lat": 39.9735,
+    "lon": -74.3817,
+    "label": "Manchester, NJ",
+    "source": "photon",
+    "query": "Manchester, New Jersey, USA"
+  },
+  "Bronx|NY": {
+    "lat": 40.82275,
+    "lon": -73.91243,
+    "label": "Bronx, NY",
+    "source": "photon",
+    "query": "Bronx, New York, USA"
+  },
+  "Yaphank|NY": {
+    "lat": 40.83219,
+    "lon": -72.92997,
+    "label": "Yaphank, NY",
+    "source": "photon",
+    "query": "Yaphank, New York, USA"
+  },
+  "East Hampton|NY": {
+    "lat": 40.96339,
+    "lon": -72.18476,
+    "label": "East Hampton, NY",
+    "source": "photon",
+    "query": "East Hampton, New York, USA"
+  },
+  "Wayne|NJ": {
+    "lat": 40.94917,
+    "lon": -74.23768,
+    "label": "Wayne, NJ",
+    "source": "nominatim",
+    "query": "Wayne, New Jersey, USA"
+  },
+  "West Point|NY": {
+    "lat": 41.35584,
+    "lon": -74.00783,
+    "label": "West Point, NY",
+    "source": "photon",
+    "query": "West Point, New York, USA"
+  },
+  "Newark|NJ": {
+    "lat": 40.73635,
+    "lon": -74.16498,
+    "label": "Newark, NJ",
+    "source": "photon",
+    "query": "Newark, New Jersey, USA"
+  },
+  "Wading River|NY": {
+    "lat": 40.94519,
+    "lon": -72.84244,
+    "label": "Wading River, NY",
+    "source": "photon",
+    "query": "Wading River, New York, USA"
+  },
+  "Hauppauge|NY": {
+    "lat": 40.82374,
+    "lon": -73.20623,
+    "label": "Hauppauge, NY",
+    "source": "photon",
+    "query": "Hauppauge, New York, USA"
+  },
+  "Farmingville|NY": {
+    "lat": 40.84065,
+    "lon": -73.03494,
+    "label": "Farmingville, NY",
+    "source": "photon",
+    "query": "Farmingville, New York, USA"
+  },
+  "Jersey City|NJ": {
+    "lat": 40.72157,
+    "lon": -74.04745,
+    "label": "Jersey City, NJ",
+    "source": "nominatim",
+    "query": "Jersey City, New Jersey, USA"
+  },
+  "Rosedale|NY": {
+    "lat": 40.66205,
+    "lon": -73.73541,
+    "label": "Rosedale, NY",
+    "source": "photon",
+    "query": "Rosedale, New York, USA"
+  },
+  "Morristown|NJ": {
+    "lat": 40.79704,
+    "lon": -74.48099,
+    "label": "Morristown, NJ",
+    "source": "photon",
+    "query": "Morristown, New Jersey, USA"
+  },
+  "Elizabeth|NJ": {
+    "lat": 40.66399,
+    "lon": -74.2107,
+    "label": "Elizabeth, NJ",
+    "source": "photon",
+    "query": "Elizabeth, New Jersey, USA"
+  },
+  "Fort Lee|NJ": {
+    "lat": 40.84833,
+    "lon": -73.97043,
+    "label": "Fort Lee, NJ",
+    "source": "photon",
+    "query": "Fort Lee, New Jersey, USA"
+  },
+  "Glen Oaks|NY": {
+    "lat": 40.74705,
+    "lon": -73.71152,
+    "label": "Glen Oaks, NY",
+    "source": "photon",
+    "query": "Glen Oaks, New York, USA"
+  },
+  "Bayonne|NJ": {
+    "lat": 40.66871,
+    "lon": -74.11431,
+    "label": "Bayonne, NJ",
+    "source": "photon",
+    "query": "Bayonne, New Jersey, USA"
+  },
+  "Middletown|NJ": {
+    "lat": 40.38982,
+    "lon": -74.11622,
+    "label": "Middletown, NJ",
+    "source": "photon",
+    "query": "Middletown, New Jersey, USA"
+  },
+  "Mount Vernon|NY": {
+    "lat": 40.91251,
+    "lon": -73.83865,
+    "label": "Mount Vernon, NY",
+    "source": "photon",
+    "query": "Mount Vernon, New York, USA"
+  },
+  "Watnong Mountain|NJ": {
+    "lat": 40.84899,
+    "lon": -74.49293,
+    "label": "Watnong Mountain, NJ",
+    "source": "photon",
+    "query": "Watnong Mountain, New Jersey, USA"
+  },
+  "Cedar Grove|NJ": {
+    "lat": 40.85177,
+    "lon": -74.22903,
+    "label": "Cedar Grove, NJ",
+    "source": "photon",
+    "query": "Cedar Grove, New Jersey, USA"
+  },
+  "Lawrenceville|NJ": {
+    "lat": 40.30099,
+    "lon": -74.73737,
+    "label": "Lawrenceville, NJ",
+    "source": "photon",
+    "query": "Lawrenceville, New Jersey, USA"
+  },
+  "Pomona|NY": {
+    "lat": 41.18915,
+    "lon": -74.05425,
+    "label": "Pomona, NY",
+    "source": "photon",
+    "query": "Pomona, New York, USA"
+  },
+  "Norwalk|CT": {
+    "lat": 41.1176,
+    "lon": -73.4079,
+    "label": "Norwalk, CT",
+    "source": "nominatim",
+    "query": "Norwalk, Connecticut, USA"
+  },
+  "Brick Township|NJ": {
+    "lat": 40.07072,
+    "lon": -74.12806,
+    "label": "Brick Township, NJ",
+    "source": "photon",
+    "query": "Brick Township, New Jersey, USA"
+  },
+  "Wanaque|NJ": {
+    "lat": 41.03815,
+    "lon": -74.29404,
+    "label": "Wanaque, NJ",
+    "source": "photon",
+    "query": "Wanaque, New Jersey, USA"
+  },
+  "Livingston|NJ": {
+    "lat": 40.79593,
+    "lon": -74.31487,
+    "label": "Livingston, NJ",
+    "source": "photon",
+    "query": "Livingston, New Jersey, USA"
+  },
+  "Mineola|NY": {
+    "lat": 40.74534,
+    "lon": -73.64189,
+    "label": "Mineola, NY",
+    "source": "photon",
+    "query": "Mineola, New York, USA"
+  },
+  "Patchogue|NY": {
+    "lat": 40.76565,
+    "lon": -73.01511,
+    "label": "Patchogue, NY",
+    "source": "photon",
+    "query": "Patchogue, New York, USA"
+  },
+  "Green Brook|NJ": {
+    "lat": 40.59909,
+    "lon": -74.47314,
+    "label": "Green Brook, NJ",
+    "source": "photon",
+    "query": "Green Brook, New Jersey, USA"
+  },
+  "West Trenton|NJ": {
+    "lat": 40.25731,
+    "lon": -74.81524,
+    "label": "West Trenton, NJ",
+    "source": "nominatim",
+    "query": "West Trenton, New Jersey, USA"
+  },
+  "Stamford|CT": {
+    "lat": 41.05343,
+    "lon": -73.53873,
+    "label": "Stamford, CT",
+    "source": "photon",
+    "query": "Stamford, Connecticut, USA"
+  },
+  "Lake Peekskill|NY": {
+    "lat": 41.33482,
+    "lon": -73.88097,
+    "label": "Lake Peekskill, NY",
+    "source": "photon",
+    "query": "Lake Peekskill, New York, USA"
+  },
+  "Westbury|NY": {
+    "lat": 40.75566,
+    "lon": -73.58763,
+    "label": "Westbury, NY",
+    "source": "photon",
+    "query": "Westbury, New York, USA"
+  },
+  "Roselle Park|NJ": {
+    "lat": 40.66455,
+    "lon": -74.26431,
+    "label": "Roselle Park, NJ",
+    "source": "photon",
+    "query": "Roselle Park, New Jersey, USA"
+  },
+  "North Lindenhurst|NY": {
+    "lat": 40.70666,
+    "lon": -73.38324,
+    "label": "North Lindenhurst, NY",
+    "source": "photon",
+    "query": "North Lindenhurst, New York, USA"
+  },
+  "Bethpage|NY": {
+    "lat": 40.75048,
+    "lon": -73.4892,
+    "label": "Bethpage, NY",
+    "source": "photon",
+    "query": "Bethpage, New York, USA"
+  },
+  "Kew Gardens|NY": {
+    "lat": 40.71394,
+    "lon": -73.83074,
+    "label": "Kew Gardens, NY",
+    "source": "photon",
+    "query": "Kew Gardens, New York, USA"
+  },
+  "Finchville|NY": {
+    "lat": 41.42787,
+    "lon": -74.57127,
+    "label": "Finchville, NY",
+    "source": "photon",
+    "query": "Finchville, New York, USA"
+  },
+  "Sayreville|NJ": {
+    "lat": 40.46354,
+    "lon": -74.36185,
+    "label": "Sayreville, NJ",
+    "source": "photon",
+    "query": "Sayreville, New Jersey, USA"
+  },
+  "Selden|NY": {
+    "lat": 40.86649,
+    "lon": -73.03566,
+    "label": "Selden, NY",
+    "source": "photon",
+    "query": "Selden, New York, USA"
+  },
+  "New Canaan|CT": {
+    "lat": 41.14206,
+    "lon": -73.48764,
+    "label": "New Canaan, CT",
+    "source": "photon",
+    "query": "New Canaan, Connecticut, USA"
+  },
+  "Wall Township|NJ": {
+    "lat": 40.17431,
+    "lon": -74.09022,
+    "label": "Wall Township, NJ",
+    "source": "photon",
+    "query": "Wall Township, New Jersey, USA"
+  },
+  "Plainview|NY": {
+    "lat": 40.7765,
+    "lon": -73.467,
+    "label": "Plainview, NY",
+    "source": "photon",
+    "query": "Plainview, New York, USA"
+  },
+  "Fords|NJ": {
+    "lat": 40.52921,
+    "lon": -74.3161,
+    "label": "Fords, NJ",
+    "source": "photon",
+    "query": "Fords, New Jersey, USA"
+  },
+  "Middle Island|NY": {
+    "lat": 40.87924,
+    "lon": -72.94014,
+    "label": "Middle Island, NY",
+    "source": "photon",
+    "query": "Middle Island, New York, USA"
+  },
+  "Warwick|NY": {
+    "lat": 41.25648,
+    "lon": -74.35988,
+    "label": "Warwick, NY",
+    "source": "photon",
+    "query": "Warwick, New York, USA"
+  },
+  "Yonkers|NY": {
+    "lat": 40.93121,
+    "lon": -73.89875,
+    "label": "Yonkers, NY",
+    "source": "photon",
+    "query": "Yonkers, New York, USA"
+  },
+  "Mount Freedom|NJ": {
+    "lat": 40.82626,
+    "lon": -74.57359,
+    "label": "Mount Freedom, NJ",
+    "source": "photon",
+    "query": "Mount Freedom, New Jersey, USA"
+  },
+  "Toms River|NJ": {
+    "lat": 39.95284,
+    "lon": -74.19674,
+    "label": "Toms River, NJ",
+    "source": "photon",
+    "query": "Toms River, New Jersey, USA"
+  },
+  "Holtsville|NY": {
+    "lat": 40.81538,
+    "lon": -73.04511,
+    "label": "Holtsville, NY",
+    "source": "photon",
+    "query": "Holtsville, New York, USA"
+  },
+  "Yorktown Heights|NY": {
+    "lat": 41.27093,
+    "lon": -73.77763,
+    "label": "Yorktown Heights, NY",
+    "source": "photon",
+    "query": "Yorktown Heights, New York, USA"
+  },
+  "Hardyston Twp|NJ": {
+    "lat": 41.12677,
+    "lon": -74.57172,
+    "label": "Hardyston Twp, NJ",
+    "source": "nominatim",
+    "query": "Hardyston Twp, New Jersey, USA"
+  },
+  "Alpine|NJ": {
+    "lat": 40.94855,
+    "lon": -73.92811,
+    "label": "Alpine, NJ",
+    "source": "photon",
+    "query": "Alpine, New Jersey, USA"
+  },
+  "Boonton|NJ": {
+    "lat": 40.90689,
+    "lon": -74.40018,
+    "label": "Boonton, NJ",
+    "source": "photon",
+    "query": "Boonton, New Jersey, USA"
+  },
+  "Lakewood|NJ": {
+    "lat": 40.09202,
+    "lon": -74.2122,
+    "label": "Lakewood, NJ",
+    "source": "photon",
+    "query": "Lakewood, New Jersey, USA"
+  },
+  "Roxbury Twp.|NJ": {
+    "lat": 40.87872,
+    "lon": -74.63599,
+    "label": "Roxbury Twp., NJ",
+    "source": "photon",
+    "query": "Roxbury Twp., New Jersey, USA"
+  },
+  "Mt. Kipp|NJ": {
+    "lat": 40.69204,
+    "lon": -74.92489,
+    "label": "Mt. Kipp, NJ",
+    "source": "photon",
+    "query": "Mount Kipp, New Jersey, USA"
+  },
+  "Yorktown|NY": {
+    "lat": 41.29565,
+    "lon": -73.80819,
+    "label": "Yorktown, NY",
+    "source": "photon",
+    "query": "Yorktown, New York, USA"
+  },
+  "Central Islip|NY": {
+    "lat": 40.78073,
+    "lon": -73.19282,
+    "label": "Central Islip, NY",
+    "source": "photon",
+    "query": "Central Islip, New York, USA"
+  },
+  "Shelter Island|NY": {
+    "lat": 41.06826,
+    "lon": -72.3389,
+    "label": "Shelter Island, NY",
+    "source": "photon",
+    "query": "Shelter Island, New York, USA"
+  },
+  "New Rochelle|NY": {
+    "lat": 40.91154,
+    "lon": -73.78264,
+    "label": "New Rochelle, NY",
+    "source": "photon",
+    "query": "New Rochelle, New York, USA"
+  },
+  "Oakhurst|NJ": {
+    "lat": 40.26131,
+    "lon": -74.02666,
+    "label": "Oakhurst, NJ",
+    "source": "photon",
+    "query": "Oakhurst, New Jersey, USA"
+  },
+  "Setauket|NY": {
+    "lat": 40.94675,
+    "lon": -73.11592,
+    "label": "Setauket, NY",
+    "source": "photon",
+    "query": "Setauket, New York, USA"
+  },
+  "Flushing|NY": {
+    "lat": 40.70958,
+    "lon": -73.92233,
+    "label": "Flushing, NY",
+    "source": "photon",
+    "query": "Flushing, New York, USA"
+  },
+  "Robbinsville|NJ": {
+    "lat": 40.21628,
+    "lon": -74.61983,
+    "label": "Robbinsville, NJ",
+    "source": "photon",
+    "query": "Robbinsville, New Jersey, USA"
+  },
+  "Dix Hills|NY": {
+    "lat": 40.80482,
+    "lon": -73.33623,
+    "label": "Dix Hills, NY",
+    "source": "photon",
+    "query": "Dix Hills, New York, USA"
+  },
+  "Huntington|NY": {
+    "lat": 40.88235,
+    "lon": -73.42007,
+    "label": "Huntington, NY",
+    "source": "photon",
+    "query": "Huntington, New York, USA"
+  },
+  "Parlin|NJ": {
+    "lat": 40.46282,
+    "lon": -74.3105,
+    "label": "Parlin, NJ",
+    "source": "photon",
+    "query": "Parlin, New Jersey, USA"
+  },
+  "Butler|NJ": {
+    "lat": 41.00371,
+    "lon": -74.34154,
+    "label": "Butler, NJ",
+    "source": "photon",
+    "query": "Butler, New Jersey, USA"
+  },
+  "East Meadow|NY": {
+    "lat": 40.71423,
+    "lon": -73.55951,
+    "label": "East Meadow, NY",
+    "source": "photon",
+    "query": "East Meadow, New York, USA"
+  },
+  "Cherryville|NJ": {
+    "lat": 40.56121,
+    "lon": -74.90322,
+    "label": "Cherryville, NJ",
+    "source": "photon",
+    "query": "Cherryville, New Jersey, USA"
+  },
+  "North Caldwell|NJ": {
+    "lat": 40.86482,
+    "lon": -74.2582,
+    "label": "North Caldwell, NJ",
+    "source": "photon",
+    "query": "North Caldwell, New Jersey, USA"
+  },
+  "Murray Hill|NJ": {
+    "lat": 40.69538,
+    "lon": -74.40098,
+    "label": "Murray Hill, NJ",
+    "source": "photon",
+    "query": "Murray Hill, New Jersey, USA"
+  },
+  "Islip|NY": {
+    "lat": 40.69672,
+    "lon": -73.31312,
+    "label": "Islip, NY",
+    "source": "photon",
+    "query": "Islip, New York, USA"
+  },
+  "North Babylon|NY": {
+    "lat": 40.71649,
+    "lon": -73.32179,
+    "label": "North Babylon, NY",
+    "source": "photon",
+    "query": "North Babylon, New York, USA"
+  },
+  "Ilion|NY": {
+    "lat": 43.01507,
+    "lon": -75.03543,
+    "label": "Ilion, NY",
+    "source": "photon",
+    "query": "Ilion, New York, USA"
+  },
+  "Nanuet|NY": {
+    "lat": 41.08871,
+    "lon": -74.01347,
+    "label": "Nanuet, NY",
+    "source": "photon",
+    "query": "Nanuet, New York, USA"
+  },
+  "Springfield|NJ": {
+    "lat": 40.71091,
+    "lon": -74.30994,
+    "label": "Springfield, NJ",
+    "source": "nominatim",
+    "query": "Springfield, New Jersey, USA"
+  },
+  "Hunter|NY": {
+    "lat": 42.2137,
+    "lon": -74.21875,
+    "label": "Hunter, NY",
+    "source": "photon",
+    "query": "Hunter, New York, USA"
+  },
+  "Whiteface Mtn.|NY": {
+    "lat": 44.36578,
+    "lon": -73.90298,
+    "label": "Whiteface Mtn., NY",
+    "source": "photon",
+    "query": "Whiteface Mountain, New York, USA"
+  },
+  "Oneida|NY": {
+    "lat": 43.21441,
+    "lon": -75.40392,
+    "label": "Oneida, NY",
+    "source": "nominatim",
+    "query": "Oneida, New York, USA"
+  },
+  "Troy|NY": {
+    "lat": 42.72841,
+    "lon": -73.69179,
+    "label": "Troy, NY",
+    "source": "photon",
+    "query": "Troy, New York, USA"
+  },
+  "Saranac Lake|NY": {
+    "lat": 44.32966,
+    "lon": -74.13112,
+    "label": "Saranac Lake, NY",
+    "source": "photon",
+    "query": "Saranac Lake, New York, USA"
+  },
+  "Grafton|NY": {
+    "lat": 42.76897,
+    "lon": -73.45095,
+    "label": "Grafton, NY",
+    "source": "photon",
+    "query": "Grafton, New York, USA"
+  },
+  "Fenner|NY": {
+    "lat": 42.96951,
+    "lon": -75.78685,
+    "label": "Fenner, NY",
+    "source": "photon",
+    "query": "Fenner, New York, USA"
+  },
+  "Remsen|NY": {
+    "lat": 43.32718,
+    "lon": -75.187,
+    "label": "Remsen, NY",
+    "source": "photon",
+    "query": "Remsen, New York, USA"
+  },
+  "Cherry Valley|NY": {
+    "lat": 42.79563,
+    "lon": -74.7532,
+    "label": "Cherry Valley, NY",
+    "source": "photon",
+    "query": "Cherry Valley, New York, USA"
+  },
+  "Utica|NY": {
+    "lat": 43.1009,
+    "lon": -75.23266,
+    "label": "Utica, NY",
+    "source": "photon",
+    "query": "Utica, New York, USA"
+  },
+  "Averill Park|NY": {
+    "lat": 42.63917,
+    "lon": -73.55817,
+    "label": "Averill Park, NY",
+    "source": "photon",
+    "query": "Averill Park, New York, USA"
+  },
+  "Cobleskill|NY": {
+    "lat": 42.67785,
+    "lon": -74.48542,
+    "label": "Cobleskill, NY",
+    "source": "photon",
+    "query": "Cobleskill, New York, USA"
+  },
+  "Cooperstown|NY": {
+    "lat": 42.70063,
+    "lon": -74.92432,
+    "label": "Cooperstown, NY",
+    "source": "photon",
+    "query": "Cooperstown, New York, USA"
+  },
+  "Delmar|NY": {
+    "lat": 42.62216,
+    "lon": -73.83291,
+    "label": "Delmar, NY",
+    "source": "photon",
+    "query": "Delmar, New York, USA"
+  },
+  "Chatham|NY": {
+    "lat": 42.36425,
+    "lon": -73.59484,
+    "label": "Chatham, NY",
+    "source": "photon",
+    "query": "Chatham, New York, USA"
+  },
+  "Boonville|NY": {
+    "lat": 43.48432,
+    "lon": -75.33579,
+    "label": "Boonville, NY",
+    "source": "photon",
+    "query": "Boonville, New York, USA"
+  },
+  "Johnstown|NY": {
+    "lat": 43.00608,
+    "lon": -74.372,
+    "label": "Johnstown, NY",
+    "source": "photon",
+    "query": "Johnstown, New York, USA"
+  },
+  "Krumville|NY": {
+    "lat": 41.88482,
+    "lon": -74.24237,
+    "label": "Krumville, NY",
+    "source": "photon",
+    "query": "Krumville, New York, USA"
+  },
+  "Lake George|NY": {
+    "lat": 43.426,
+    "lon": -73.71242,
+    "label": "Lake George, NY",
+    "source": "photon",
+    "query": "Lake George, New York, USA"
+  },
+  "Burlington|NY": {
+    "lat": 42.72285,
+    "lon": -75.12544,
+    "label": "Burlington, NY",
+    "source": "nominatim",
+    "query": "Burlington, New York, USA"
+  },
+  "Schenectady|NY": {
+    "lat": 42.80097,
+    "lon": -73.95917,
+    "label": "Schenectady, NY",
+    "source": "photon",
+    "query": "Schenectady, New York, USA"
+  },
+  "Meridale|NY": {
+    "lat": 42.39913,
+    "lon": -74.92375,
+    "label": "Meridale, NY",
+    "source": "photon",
+    "query": "Meridale, New York, USA"
+  },
+  "North Hebron|NY": {
+    "lat": 43.32313,
+    "lon": -73.32039,
+    "label": "North Hebron, NY",
+    "source": "photon",
+    "query": "North Hebron, New York, USA"
+  },
+  "Oriskany|NY": {
+    "lat": 43.15736,
+    "lon": -75.33291,
+    "label": "Oriskany, NY",
+    "source": "photon",
+    "query": "Oriskany, New York, USA"
+  },
+  "Oneonta|NY": {
+    "lat": 42.45349,
+    "lon": -75.06295,
+    "label": "Oneonta, NY",
+    "source": "photon",
+    "query": "Oneonta, New York, USA"
+  },
+  "Delanson|NY": {
+    "lat": 42.74535,
+    "lon": -74.18818,
+    "label": "Delanson, NY",
+    "source": "photon",
+    "query": "Delanson, New York, USA"
+  },
+  "Millbrook|NY": {
+    "lat": 41.7865,
+    "lon": -73.69219,
+    "label": "Millbrook, NY",
+    "source": "photon",
+    "query": "Millbrook, New York, USA"
+  },
+  "Lee|NY": {
+    "lat": 43.27871,
+    "lon": -75.57186,
+    "label": "Lee, NY",
+    "source": "nominatim",
+    "query": "Lee, New York, USA"
+  },
+  "Verona|NY": {
+    "lat": 43.13832,
+    "lon": -75.57083,
+    "label": "Verona, NY",
+    "source": "photon",
+    "query": "Verona, New York, USA"
+  },
+  "Corinth|NY": {
+    "lat": 43.2447,
+    "lon": -73.83259,
+    "label": "Corinth, NY",
+    "source": "photon",
+    "query": "Corinth, New York, USA"
+  },
+  "Fleischmanns|NY": {
+    "lat": 42.15666,
+    "lon": -74.53056,
+    "label": "Fleischmanns, NY",
+    "source": "photon",
+    "query": "Fleischmanns, New York, USA"
+  },
+  "Norway|NY": {
+    "lat": 43.20843,
+    "lon": -74.95216,
+    "label": "Norway, NY",
+    "source": "photon",
+    "query": "Norway, New York, USA"
+  },
+  "Ellenville|NY": {
+    "lat": 41.71704,
+    "lon": -74.39571,
+    "label": "Ellenville, NY",
+    "source": "photon",
+    "query": "Ellenville, New York, USA"
+  },
+  "Cairo|NY": {
+    "lat": 42.29987,
+    "lon": -73.99946,
+    "label": "Cairo, NY",
+    "source": "photon",
+    "query": "Cairo, New York, USA"
+  },
+  "North Bangor|NY": {
+    "lat": 44.84199,
+    "lon": -74.40101,
+    "label": "North Bangor, NY",
+    "source": "photon",
+    "query": "North Bangor, New York, USA"
+  },
+  "Gore Mtn.|NY": {
+    "lat": 43.67295,
+    "lon": -74.04885,
+    "label": "Gore Mtn., NY",
+    "source": "photon",
+    "query": "Gore Mountain, New York, USA"
+  },
+  "Grahamsville|NY": {
+    "lat": 41.85341,
+    "lon": -74.55042,
+    "label": "Grahamsville, NY",
+    "source": "photon",
+    "query": "Grahamsville, New York, USA"
+  },
+  "Speculator|NY": {
+    "lat": 43.50056,
+    "lon": -74.36356,
+    "label": "Speculator, NY",
+    "source": "photon",
+    "query": "Speculator, New York, USA"
+  },
+  "Hudson|NY": {
+    "lat": 42.25286,
+    "lon": -73.79096,
+    "label": "Hudson, NY",
+    "source": "nominatim",
+    "query": "Hudson, New York, USA"
+  },
+  "Fonda|NY": {
+    "lat": 42.95442,
+    "lon": -74.37692,
+    "label": "Fonda, NY",
+    "source": "photon",
+    "query": "Fonda, New York, USA"
+  },
+  "Martindale|NY": {
+    "lat": 42.20703,
+    "lon": -73.63179,
+    "label": "Martindale, NY",
+    "source": "photon",
+    "query": "Martindale, New York, USA"
+  },
+  "Galway|NY": {
+    "lat": 43.01869,
+    "lon": -74.03152,
+    "label": "Galway, NY",
+    "source": "photon",
+    "query": "Galway, New York, USA"
+  },
+  "Kirkland|NY": {
+    "lat": 43.07792,
+    "lon": -75.38338,
+    "label": "Kirkland, NY",
+    "source": "photon",
+    "query": "Kirkland, New York, USA"
+  },
+  "Kingston|NY": {
+    "lat": 41.92878,
+    "lon": -74.00238,
+    "label": "Kingston, NY",
+    "source": "photon",
+    "query": "Kingston, New York, USA"
+  },
+  "Lake Placid|NY": {
+    "lat": 44.28961,
+    "lon": -73.98541,
+    "label": "Lake Placid, NY",
+    "source": "photon",
+    "query": "Lake Placid, New York, USA"
+  },
+  "New Scotland|NY": {
+    "lat": 42.63031,
+    "lon": -73.90809,
+    "label": "New Scotland, NY",
+    "source": "photon",
+    "query": "New Scotland, New York, USA"
+  },
+  "Lyon Mtn.|NY": {
+    "lat": 44.70365,
+    "lon": -73.86459,
+    "label": "Lyon Mtn., NY",
+    "source": "photon",
+    "query": "Lyon Mountain, New York, USA"
+  },
+  "Rome|NY": {
+    "lat": 43.21022,
+    "lon": -75.4584,
+    "label": "Rome, NY",
+    "source": "photon",
+    "query": "Rome, New York, USA"
+  },
+  "Old Forge|NY": {
+    "lat": 43.7079,
+    "lon": -74.96909,
+    "label": "Old Forge, NY",
+    "source": "photon",
+    "query": "Old Forge, New York, USA"
+  },
+  "Washington|NJ": {
+    "lat": 40.80101,
+    "lon": -74.81624,
+    "label": "Washington, NJ",
+    "source": "photon",
+    "query": "Washington, New Jersey, USA"
+  },
+  "Tupper Lake|NY": {
+    "lat": 44.22404,
+    "lon": -74.4643,
+    "label": "Tupper Lake, NY",
+    "source": "photon",
+    "query": "Tupper Lake, New York, USA"
+  },
+  "West Islip|NY": {
+    "lat": 40.69672,
+    "lon": -73.31312,
+    "label": "West Islip, NY",
+    "source": "photon",
+    "query": "West Islip, New York, USA"
+  },
+  "Middle Grove|NY": {
+    "lat": 43.08941,
+    "lon": -73.91759,
+    "label": "Middle Grove, NY",
+    "source": "photon",
+    "query": "Middle Grove, New York, USA"
+  },
+  "Warren|NJ": {
+    "lat": 40.69309,
+    "lon": -75.18033,
+    "label": "Warren, NJ",
+    "source": "photon",
+    "query": "Warren, New Jersey, USA"
+  },
+  "Warrenville|NJ": {
+    "lat": 40.61716,
+    "lon": -74.49585,
+    "label": "Warrenville, NJ",
+    "source": "photon",
+    "query": "Warrenville, New Jersey, USA"
+  },
+  "Armonk|NY": {
+    "lat": 41.13297,
+    "lon": -73.71261,
+    "label": "Armonk, NY",
+    "source": "photon",
+    "query": "Armonk, New York, USA"
+  },
+  "Union City|NJ": {
+    "lat": 40.77955,
+    "lon": -74.02375,
+    "label": "Union City, NJ",
+    "source": "photon",
+    "query": "Union City, New Jersey, USA"
+  },
+  "Cream Ridge|NJ": {
+    "lat": 40.13123,
+    "lon": -74.535,
+    "label": "Cream Ridge, NJ",
+    "source": "photon",
+    "query": "Cream Ridge, New Jersey, USA"
+  },
+  "Thiells|NY": {
+    "lat": 41.20676,
+    "lon": -74.01262,
+    "label": "Thiells, NY",
+    "source": "photon",
+    "query": "Thiells, New York, USA"
+  },
+  "South Orange|NJ": {
+    "lat": 40.7475,
+    "lon": -74.26354,
+    "label": "South Orange, NJ",
+    "source": "photon",
+    "query": "South Orange, New Jersey, USA"
+  },
+  "Clifton|NJ": {
+    "lat": 40.85843,
+    "lon": -74.16376,
+    "label": "Clifton, NJ",
+    "source": "photon",
+    "query": "Clifton, New Jersey, USA"
+  },
+  "Saddle Brook|NJ": {
+    "lat": 40.89899,
+    "lon": -74.09264,
+    "label": "Saddle Brook, NJ",
+    "source": "nominatim",
+    "query": "Saddle Brook, New Jersey, USA"
+  },
+  "New Brunswick|NJ": {
+    "lat": 40.47075,
+    "lon": -74.47756,
+    "label": "New Brunswick, NJ",
+    "source": "photon",
+    "query": "New Brunswick, New Jersey, USA"
+  },
+  "Verona|NJ": {
+    "lat": 40.82982,
+    "lon": -74.24015,
+    "label": "Verona, NJ",
+    "source": "photon",
+    "query": "Verona, New Jersey, USA"
+  },
+  "East Rockaway|NY": {
+    "lat": 40.64153,
+    "lon": -73.6656,
+    "label": "East Rockaway, NY",
+    "source": "photon",
+    "query": "East Rockaway, New York, USA"
+  },
+  "Dix HIlls|NY": {
+    "lat": 40.80482,
+    "lon": -73.33623,
+    "label": "Dix HIlls, NY",
+    "source": "photon",
+    "query": "Dix HIlls, New York, USA"
+  },
+  "Mount Arlington|NJ": {
+    "lat": 40.92593,
+    "lon": -74.63488,
+    "label": "Mount Arlington, NJ",
+    "source": "photon",
+    "query": "Mount Arlington, New Jersey, USA"
+  },
+  "Mahopac|NY": {
+    "lat": 41.37232,
+    "lon": -73.73346,
+    "label": "Mahopac, NY",
+    "source": "photon",
+    "query": "Mahopac, New York, USA"
+  },
+  "South Amboy|NJ": {
+    "lat": 40.48211,
+    "lon": -74.28288,
+    "label": "South Amboy, NJ",
+    "source": "photon",
+    "query": "South Amboy, New Jersey, USA"
+  },
+  "Basking Ridge|NJ": {
+    "lat": 40.70641,
+    "lon": -74.54927,
+    "label": "Basking Ridge, NJ",
+    "source": "photon",
+    "query": "Basking Ridge, New Jersey, USA"
+  },
+  "Keyport|NJ": {
+    "lat": 40.43316,
+    "lon": -74.19959,
+    "label": "Keyport, NJ",
+    "source": "photon",
+    "query": "Keyport, New Jersey, USA"
+  },
+  "Patterson|NY": {
+    "lat": 41.51373,
+    "lon": -73.60623,
+    "label": "Patterson, NY",
+    "source": "photon",
+    "query": "Patterson, New York, USA"
+  },
+  "Barnegat|NJ": {
+    "lat": 39.75575,
+    "lon": -74.22074,
+    "label": "Barnegat, NJ",
+    "source": "photon",
+    "query": "Barnegat, New Jersey, USA"
+  },
+  "West Orange|NJ": {
+    "lat": 40.79871,
+    "lon": -74.23904,
+    "label": "West Orange, NJ",
+    "source": "photon",
+    "query": "West Orange, New Jersey, USA"
+  },
+  "Greenport|NY": {
+    "lat": 41.1033,
+    "lon": -72.35931,
+    "label": "Greenport, NY",
+    "source": "photon",
+    "query": "Greenport, New York, USA"
+  },
+  "Parsippany|NJ": {
+    "lat": 40.86238,
+    "lon": -74.40324,
+    "label": "Parsippany, NJ",
+    "source": "nominatim",
+    "query": "Parsippany, New Jersey, USA"
+  },
+  "Babylon|NY": {
+    "lat": 40.69566,
+    "lon": -73.32568,
+    "label": "Babylon, NY",
+    "source": "photon",
+    "query": "Babylon, New York, USA"
+  },
+  "Randolph|NJ": {
+    "lat": 40.85869,
+    "lon": -74.61104,
+    "label": "Randolph, NJ",
+    "source": "photon",
+    "query": "Randolph, New Jersey, USA"
+  },
+  "Paterson|NJ": {
+    "lat": 40.91677,
+    "lon": -74.17181,
+    "label": "Paterson, NJ",
+    "source": "nominatim",
+    "query": "Paterson, New Jersey, USA"
+  },
+  "Lyndhurst|NJ": {
+    "lat": 40.81229,
+    "lon": -74.12473,
+    "label": "Lyndhurst, NJ",
+    "source": "photon",
+    "query": "Lyndhurst, New Jersey, USA"
+  },
+  "Suffern|NY": {
+    "lat": 41.11514,
+    "lon": -74.14939,
+    "label": "Suffern, NY",
+    "source": "photon",
+    "query": "Suffern, New York, USA"
+  },
+  "Secaucus|NJ": {
+    "lat": 40.78993,
+    "lon": -74.05667,
+    "label": "Secaucus, NJ",
+    "source": "photon",
+    "query": "Secaucus, New Jersey, USA"
+  },
+  "Jefferson Townshiop|NJ": {
+    "lat": 40.99359,
+    "lon": -74.5626,
+    "label": "Jefferson Townshiop, NJ",
+    "source": "photon",
+    "query": "Jefferson Townshiop, New Jersey, USA"
+  },
+  "Haverstraw|NY": {
+    "lat": 41.19765,
+    "lon": -73.96405,
+    "label": "Haverstraw, NY",
+    "source": "photon",
+    "query": "Haverstraw, New York, USA"
+  },
+  "Glen Rock|NJ": {
+    "lat": 40.96288,
+    "lon": -74.13292,
+    "label": "Glen Rock, NJ",
+    "source": "photon",
+    "query": "Glen Rock, New Jersey, USA"
+  },
+  "White Plains|NY": {
+    "lat": 41.03399,
+    "lon": -73.76291,
+    "label": "White Plains, NY",
+    "source": "photon",
+    "query": "White Plains, New York, USA"
+  },
+  "Woodbridge|NJ": {
+    "lat": 40.55418,
+    "lon": -74.286,
+    "label": "Woodbridge, NJ",
+    "source": "photon",
+    "query": "Woodbridge, New Jersey, USA"
+  },
+  "Upton|NY": {
+    "lat": 40.86954,
+    "lon": -72.88677,
+    "label": "Upton, NY",
+    "source": "photon",
+    "query": "Upton, New York, USA"
+  },
+  "Haledon|NJ": {
+    "lat": 40.93565,
+    "lon": -74.18626,
+    "label": "Haledon, NJ",
+    "source": "photon",
+    "query": "Haledon, New Jersey, USA"
+  },
+  "Bloomfield|NJ": {
+    "lat": 40.79348,
+    "lon": -74.19793,
+    "label": "Bloomfield, NJ",
+    "source": "nominatim",
+    "query": "Bloomfield, New Jersey, USA"
+  },
+  "Dobbs Ferry|NY": {
+    "lat": 41.01454,
+    "lon": -73.87264,
+    "label": "Dobbs Ferry, NY",
+    "source": "photon",
+    "query": "Dobbs Ferry, New York, USA"
+  },
+  "Queens Village|NY": {
+    "lat": 40.72677,
+    "lon": -73.74152,
+    "label": "Queens Village, NY",
+    "source": "photon",
+    "query": "Queens Village, New York, USA"
+  },
+  "Hauppague|NY": {
+    "lat": 40.82374,
+    "lon": -73.20623,
+    "label": "Hauppague, NY",
+    "source": "photon",
+    "query": "Hauppauge, New York, USA"
+  },
+  "Hasbrouck Hts|NJ": {
+    "lat": 40.85793,
+    "lon": -74.08167,
+    "label": "Hasbrouck Hts, NJ",
+    "source": "nominatim",
+    "query": "Hasbrouck Hts, New Jersey, USA"
+  },
+  "Old Bridge|NJ": {
+    "lat": 40.46005,
+    "lon": -74.3985,
+    "label": "Old Bridge, NJ",
+    "source": "photon",
+    "query": "Old Bridge, New Jersey, USA"
+  },
+  "Middletown|NY": {
+    "lat": 41.45011,
+    "lon": -74.41648,
+    "label": "Middletown, NY",
+    "source": "nominatim",
+    "query": "Middletown, New York, USA"
+  },
+  "Little Falls|NJ": {
+    "lat": 40.88135,
+    "lon": -74.22818,
+    "label": "Little Falls, NJ",
+    "source": "photon",
+    "query": "Little Falls, New Jersey, USA"
+  },
+  "Franklin Lakes|NJ": {
+    "lat": 41.01676,
+    "lon": -74.2057,
+    "label": "Franklin Lakes, NJ",
+    "source": "photon",
+    "query": "Franklin Lakes, New Jersey, USA"
+  },
+  "Lakehurst|NJ": {
+    "lat": 40.01456,
+    "lon": -74.31126,
+    "label": "Lakehurst, NJ",
+    "source": "photon",
+    "query": "Lakehurst, New Jersey, USA"
+  },
+  "South Brunswick|NJ": {
+    "lat": 40.38187,
+    "lon": -74.53177,
+    "label": "South Brunswick, NJ",
+    "source": "photon",
+    "query": "South Brunswick, New Jersey, USA"
+  },
+  "Briarcliff Manor|NY": {
+    "lat": 41.14565,
+    "lon": -73.82375,
+    "label": "Briarcliff Manor, NY",
+    "source": "photon",
+    "query": "Briarcliff Manor, New York, USA"
+  },
+  "South River|NJ": {
+    "lat": 40.44649,
+    "lon": -74.38598,
+    "label": "South River, NJ",
+    "source": "photon",
+    "query": "South River, New Jersey, USA"
+  },
+  "Wood-Ridge|NJ": {
+    "lat": 40.84566,
+    "lon": -74.08792,
+    "label": "Wood-Ridge, NJ",
+    "source": "photon",
+    "query": "Wood-Ridge, New Jersey, USA"
+  },
+  "Lake Hopatcong|NJ": {
+    "lat": 40.96255,
+    "lon": -74.61783,
+    "label": "Lake Hopatcong, NJ",
+    "source": "photon",
+    "query": "Lake Hopatcong, New Jersey, USA"
+  },
+  "Washingtonville|NY": {
+    "lat": 41.42787,
+    "lon": -74.16598,
+    "label": "Washingtonville, NY",
+    "source": "photon",
+    "query": "Washingtonville, New York, USA"
+  },
+  "Tinton Falls|NJ": {
+    "lat": 40.28907,
+    "lon": -74.0928,
+    "label": "Tinton Falls, NJ",
+    "source": "photon",
+    "query": "Tinton Falls, New Jersey, USA"
+  },
+  "Hackensack|NJ": {
+    "lat": 40.88708,
+    "lon": -74.04107,
+    "label": "Hackensack, NJ",
+    "source": "nominatim",
+    "query": "Hackensack, New Jersey, USA"
+  },
+  "Wall Twp|NJ": {
+    "lat": 40.1857,
+    "lon": -74.05979,
+    "label": "Wall Twp, NJ",
+    "source": "photon",
+    "query": "Wall Twp, New Jersey, USA"
+  },
+  "Syosset|NY": {
+    "lat": 40.82621,
+    "lon": -73.50207,
+    "label": "Syosset, NY",
+    "source": "photon",
+    "query": "Syosset, New York, USA"
+  },
+  "Bohemia|NY": {
+    "lat": 40.76928,
+    "lon": -73.1151,
+    "label": "Bohemia, NY",
+    "source": "photon",
+    "query": "Bohemia, New York, USA"
+  },
+  "Valley Stream|NY": {
+    "lat": 40.70009,
+    "lon": -73.69095,
+    "label": "Valley Stream, NY",
+    "source": "photon",
+    "query": "Valley Stream, New York, USA"
+  },
+  "Rye Brook|NY": {
+    "lat": 41.01926,
+    "lon": -73.68346,
+    "label": "Rye Brook, NY",
+    "source": "photon",
+    "query": "Rye Brook, New York, USA"
+  },
+  "Sloatsburg|NY": {
+    "lat": 41.15454,
+    "lon": -74.19292,
+    "label": "Sloatsburg, NY",
+    "source": "photon",
+    "query": "Sloatsburg, New York, USA"
+  },
+  "Hawthorne|NJ": {
+    "lat": 40.94926,
+    "lon": -74.15375,
+    "label": "Hawthorne, NJ",
+    "source": "photon",
+    "query": "Hawthorne, New Jersey, USA"
+  },
+  "Jefferson|NJ": {
+    "lat": 40.99359,
+    "lon": -74.5626,
+    "label": "Jefferson, NJ",
+    "source": "photon",
+    "query": "Jefferson, New Jersey, USA"
+  },
+  "Summit|NJ": {
+    "lat": 40.71824,
+    "lon": -74.35923,
+    "label": "Summit, NJ",
+    "source": "nominatim",
+    "query": "Summit, New Jersey, USA"
+  },
+  "Briarwood|NY": {
+    "lat": 40.70926,
+    "lon": -73.82014,
+    "label": "Briarwood, NY",
+    "source": "photon",
+    "query": "Briarwood, New York, USA"
+  },
+  "Cliffside Park|NJ": {
+    "lat": 40.82149,
+    "lon": -73.98764,
+    "label": "Cliffside Park, NJ",
+    "source": "photon",
+    "query": "Cliffside Park, New Jersey, USA"
+  },
+  "Rahway|NJ": {
+    "lat": 40.60816,
+    "lon": -74.27765,
+    "label": "Rahway, NJ",
+    "source": "photon",
+    "query": "Rahway, New Jersey, USA"
+  },
+  "Carle Place|NY": {
+    "lat": 40.75006,
+    "lon": -73.61183,
+    "label": "Carle Place, NY",
+    "source": "photon",
+    "query": "Carle Place, New York, USA"
+  },
+  "Putnam Valley|NY": {
+    "lat": 41.34062,
+    "lon": -73.87696,
+    "label": "Putnam Valley, NY",
+    "source": "photon",
+    "query": "Putnam Valley, New York, USA"
+  },
+  "Nutley|NJ": {
+    "lat": 40.82232,
+    "lon": -74.15987,
+    "label": "Nutley, NJ",
+    "source": "photon",
+    "query": "Nutley, New Jersey, USA"
+  },
+  "Union|NJ": {
+    "lat": 40.65835,
+    "lon": -74.28629,
+    "label": "Union, NJ",
+    "source": "photon",
+    "query": "Union, New Jersey, USA"
+  },
+  "?|NY": null,
+  "Budd Lake|NJ": {
+    "lat": 40.87395,
+    "lon": -74.73823,
+    "label": "Budd Lake, NJ",
+    "source": "photon",
+    "query": "Budd Lake, New Jersey, USA"
+  },
+  "Montvale|NJ": {
+    "lat": 41.04076,
+    "lon": -74.02886,
+    "label": "Montvale, NJ",
+    "source": "photon",
+    "query": "Montvale, New Jersey, USA"
+  },
+  "Watchung|NJ": {
+    "lat": 40.63788,
+    "lon": -74.45099,
+    "label": "Watchung, NJ",
+    "source": "photon",
+    "query": "Watchung, New Jersey, USA"
+  },
+  "Malverne|NY": {
+    "lat": 40.67899,
+    "lon": -73.67402,
+    "label": "Malverne, NY",
+    "source": "photon",
+    "query": "Malverne, New York, USA"
+  },
+  "Montclair|NJ": {
+    "lat": 40.81645,
+    "lon": -74.22106,
+    "label": "Montclair, NJ",
+    "source": "photon",
+    "query": "Montclair, New Jersey, USA"
+  },
+  "Whitestone|NY": {
+    "lat": 40.79455,
+    "lon": -73.81847,
+    "label": "Whitestone, NY",
+    "source": "photon",
+    "query": "Whitestone, New York, USA"
+  },
+  "Bear Mountain|NY": {
+    "lat": 41.29598,
+    "lon": -74.00264,
+    "label": "Bear Mountain, NY",
+    "source": "photon",
+    "query": "Bear Mountain, New York, USA"
+  },
+  "Succasunna|NJ": {
+    "lat": 40.86843,
+    "lon": -74.64044,
+    "label": "Succasunna, NJ",
+    "source": "photon",
+    "query": "Succasunna, New Jersey, USA"
+  },
+  "Oceanside|NY": {
+    "lat": 40.63909,
+    "lon": -73.63998,
+    "label": "Oceanside, NY",
+    "source": "photon",
+    "query": "Oceanside, New York, USA"
+  },
+  "Graham Mountain|NY": {
+    "lat": 42.03917,
+    "lon": -74.54884,
+    "label": "Graham Mountain, NY",
+    "source": "photon",
+    "query": "Graham Mountain, New York, USA"
+  },
+  "Otisville|NY": {
+    "lat": 41.4735,
+    "lon": -74.53809,
+    "label": "Otisville, NY",
+    "source": "photon",
+    "query": "Otisville, New York, USA"
+  },
+  "Pawling|NY": {
+    "lat": 41.56184,
+    "lon": -73.60261,
+    "label": "Pawling, NY",
+    "source": "photon",
+    "query": "Pawling, New York, USA"
+  },
+  "Bayshore|NY": {
+    "lat": 40.72765,
+    "lon": -73.24352,
+    "label": "Bayshore, NY",
+    "source": "photon",
+    "query": "Bay Shore, New York, USA"
+  },
+  "Kinnelon|NJ": {
+    "lat": 41.00176,
+    "lon": -74.3671,
+    "label": "Kinnelon, NJ",
+    "source": "photon",
+    "query": "Kinnelon, New Jersey, USA"
+  },
+  "Sag Harbor|NY": {
+    "lat": 40.99787,
+    "lon": -72.29223,
+    "label": "Sag Harbor, NY",
+    "source": "photon",
+    "query": "Sag Harbor, New York, USA"
+  },
+  "Hopatcong|NJ": {
+    "lat": 40.93321,
+    "lon": -74.6601,
+    "label": "Hopatcong, NJ",
+    "source": "photon",
+    "query": "Hopatcong, New Jersey, USA"
+  },
+  "Port Jervis|NY": {
+    "lat": 41.37509,
+    "lon": -74.69266,
+    "label": "Port Jervis, NY",
+    "source": "photon",
+    "query": "Port Jervis, New York, USA"
+  },
+  "Jefferson Valley|NY": {
+    "lat": 41.31722,
+    "lon": -73.80137,
+    "label": "Jefferson Valley, NY",
+    "source": "photon",
+    "query": "Jefferson Valley, New York, USA"
+  },
+  "Chatham|NJ": {
+    "lat": 40.74092,
+    "lon": -74.38367,
+    "label": "Chatham, NJ",
+    "source": "photon",
+    "query": "Chatham, New Jersey, USA"
+  },
+  "Maspeth|NY": {
+    "lat": 40.72316,
+    "lon": -73.91264,
+    "label": "Maspeth, NY",
+    "source": "photon",
+    "query": "Maspeth, New York, USA"
+  },
+  "Bloomsbury|NJ": {
+    "lat": 40.65399,
+    "lon": -75.08656,
+    "label": "Bloomsbury, NJ",
+    "source": "photon",
+    "query": "Bloomsbury, New Jersey, USA"
+  },
+  "Goshen|NY": {
+    "lat": 41.40215,
+    "lon": -74.32421,
+    "label": "Goshen, NY",
+    "source": "photon",
+    "query": "Goshen, New York, USA"
+  },
+  "Garnerville|NY": {
+    "lat": 41.20154,
+    "lon": -73.99486,
+    "label": "Garnerville, NY",
+    "source": "photon",
+    "query": "Garnerville, New York, USA"
+  },
+  "Denville|NJ": {
+    "lat": 40.88381,
+    "lon": -74.481,
+    "label": "Denville, NJ",
+    "source": "photon",
+    "query": "Denville, New Jersey, USA"
+  },
+  "Hempstead|NY": {
+    "lat": 40.70753,
+    "lon": -73.62975,
+    "label": "Hempstead, NY",
+    "source": "photon",
+    "query": "Hempstead, New York, USA"
+  },
+  "Mattituck|NY": {
+    "lat": 40.99121,
+    "lon": -72.53425,
+    "label": "Mattituck, NY",
+    "source": "photon",
+    "query": "Mattituck, New York, USA"
+  },
+  "Liberty|NY": {
+    "lat": 41.80121,
+    "lon": -74.74663,
+    "label": "Liberty, NY",
+    "source": "nominatim",
+    "query": "Liberty, New York, USA"
+  },
+  "Frankfort|NY": {
+    "lat": 43.03896,
+    "lon": -75.07044,
+    "label": "Frankfort, NY",
+    "source": "photon",
+    "query": "Frankfort, New York, USA"
+  },
+  "Southold|NY": {
+    "lat": 41.06722,
+    "lon": -72.4408,
+    "label": "Southold, NY",
+    "source": "photon",
+    "query": "Southold, New York, USA"
+  },
+  "Highmount|NY": {
+    "lat": 42.14426,
+    "lon": -74.48987,
+    "label": "Highmount, NY",
+    "source": "photon",
+    "query": "Highmount, New York, USA"
+  },
+  "Summit|NY": {
+    "lat": 42.57952,
+    "lon": -74.5882,
+    "label": "Summit, NY",
+    "source": "photon",
+    "query": "Summit, New York, USA"
+  },
+  "Austerlitz|NY": {
+    "lat": 42.31266,
+    "lon": -73.47338,
+    "label": "Austerlitz, NY",
+    "source": "photon",
+    "query": "Austerlitz, New York, USA"
+  },
+  "Earlville|NY": {
+    "lat": 42.73979,
+    "lon": -75.54518,
+    "label": "Earlville, NY",
+    "source": "photon",
+    "query": "Earlville, New York, USA"
+  },
+  "Defreestville|NY": {
+    "lat": 42.6532,
+    "lon": -73.69541,
+    "label": "Defreestville, NY",
+    "source": "photon",
+    "query": "Defreestville, New York, USA"
+  },
+  "Malone|NY": {
+    "lat": 44.84881,
+    "lon": -74.29504,
+    "label": "Malone, NY",
+    "source": "photon",
+    "query": "Malone, New York, USA"
+  },
+  "Esopus|NY": {
+    "lat": 41.8278,
+    "lon": -73.96505,
+    "label": "Esopus, NY",
+    "source": "nominatim",
+    "query": "Esopus, New York, USA"
+  },
+  "Glen Spey|NY": {
+    "lat": 41.4787,
+    "lon": -74.8135,
+    "label": "Glen Spey, NY",
+    "source": "photon",
+    "query": "Glen Spey, New York, USA"
+  },
+  "New Paltz|NY": {
+    "lat": 41.7465,
+    "lon": -74.08449,
+    "label": "New Paltz, NY",
+    "source": "photon",
+    "query": "New Paltz, New York, USA"
+  },
+  "Marlboro|NY": {
+    "lat": 41.60547,
+    "lon": -73.97173,
+    "label": "Marlboro, NY",
+    "source": "photon",
+    "query": "Marlboro, New York, USA"
+  },
+  "Hunter Mountain|NY": {
+    "lat": 42.17787,
+    "lon": -74.23042,
+    "label": "Hunter Mountain, NY",
+    "source": "photon",
+    "query": "Hunter Mountain, New York, USA"
+  },
+  "New Baltimore|NY": {
+    "lat": 42.44619,
+    "lon": -73.78846,
+    "label": "New Baltimore, NY",
+    "source": "photon",
+    "query": "New Baltimore, New York, USA"
+  },
+  "Beacon|NY": {
+    "lat": 41.50484,
+    "lon": -73.96954,
+    "label": "Beacon, NY",
+    "source": "photon",
+    "query": "Beacon, New York, USA"
+  },
+  "Clifton Park|NY": {
+    "lat": 42.86304,
+    "lon": -73.77476,
+    "label": "Clifton Park, NY",
+    "source": "nominatim",
+    "query": "Clifton Park, New York, USA"
+  },
+  "Moriah|NY": {
+    "lat": 44.04618,
+    "lon": -73.50533,
+    "label": "Moriah, NY",
+    "source": "photon",
+    "query": "Moriah, New York, USA"
+  },
+  "Greenbrook|NJ": {
+    "lat": 40.91819,
+    "lon": -73.93308,
+    "label": "Greenbrook, NJ",
+    "source": "photon",
+    "query": "Greenbrook, New Jersey, USA"
+  },
+  "Belle Meade|NJ": {
+    "lat": 40.46677,
+    "lon": -74.66071,
+    "label": "Belle Meade, NJ",
+    "source": "photon",
+    "query": "Belle Mead, New Jersey, USA"
+  },
+  "Manorville|NY": {
+    "lat": 40.86256,
+    "lon": -72.78609,
+    "label": "Manorville, NY",
+    "source": "photon",
+    "query": "Manorville, New York, USA"
+  },
+  "West Sand Lake|NY": {
+    "lat": 42.64046,
+    "lon": -73.60349,
+    "label": "West Sand Lake, NY",
+    "source": "photon",
+    "query": "West Sand Lake, New York, USA"
+  },
+  "Latham|NY": {
+    "lat": 42.74361,
+    "lon": -73.74585,
+    "label": "Latham, NY",
+    "source": "photon",
+    "query": "Latham, New York, USA"
+  },
+  "Herkimer|NY": {
+    "lat": 43.0325,
+    "lon": -75.00778,
+    "label": "Herkimer, NY",
+    "source": "photon",
+    "query": "Herkimer, Herkimer County, New York, USA"
+  },
+  "Greenwich|NY": {
+    "lat": 43.08858,
+    "lon": -73.49765,
+    "label": "Greenwich, NY",
+    "source": "photon",
+    "query": "Greenwich, Washington County, New York, USA"
+  },
+  "Woodbury|NY": {
+    "lat": 41.3118,
+    "lon": -74.143,
+    "label": "Woodbury, NY",
+    "source": "photon",
+    "query": "Woodbury, Orange County, New York, USA"
+  },
+  "New Windsor|NY": {
+    "lat": 41.47676,
+    "lon": -74.02375,
+    "label": "New Windsor, NY",
+    "source": "photon",
+    "query": "New Windsor, Orange County, New York, USA"
+  },
+  "New Salem|NY": {
+    "lat": 42.62286,
+    "lon": -73.96846,
+    "label": "New Salem, NY",
+    "source": "photon",
+    "query": "New Salem, Albany County, New York, USA"
+  },
+  "Riverhead|NY": {
+    "lat": 40.91687,
+    "lon": -72.66242,
+    "label": "Riverhead, NY",
+    "source": "nominatim",
+    "query": "Riverhead, Suffolk County, New York, USA"
+  },
+  "Highland|NY": {
+    "lat": 41.72126,
+    "lon": -73.96081,
+    "label": "Highland, NY",
+    "source": "nominatim",
+    "query": "Highland, Ulster County, New York, USA"
+  },
+  "Half Moon|NY": {
+    "lat": 42.9174,
+    "lon": -73.77169,
+    "label": "Half Moon, NY",
+    "source": "photon",
+    "query": "Halfmoon, Saratoga County, New York, USA"
+  },
+  "Clove|NY": {
+    "lat": 41.67093,
+    "lon": -73.67485,
+    "label": "Clove, NY",
+    "source": "nominatim",
+    "query": "Clove, Dutchess County, New York, USA"
+  },
+  "South Hampton|NY": {
+    "lat": 40.95515,
+    "lon": -72.19267,
+    "label": "South Hampton, NY",
+    "source": "nominatim",
+    "query": "South Hampton, Suffolk County, New York, USA"
+  }
+}

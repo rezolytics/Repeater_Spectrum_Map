@@ -1,0 +1,192 @@
+{
+  "bands": [
+    {
+      "id": "10m",
+      "name": "10 Meters",
+      "label": "10m",
+      "rangeLabel": "29.5–29.7 MHz",
+      "minHz": 29500000,
+      "maxHz": 29700000,
+      "edgePadHz": 100000,
+      "defaultOffsetHz": 100000,
+      "channelWidthHz": 20000,
+      "minSpanHz": 20000,
+      "markers": [
+        { "hz": 29600000, "label": "29.600 FM simplex calling", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 29500000, "endHz": 29600000, "id": "10-in", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 29600000, "endHz": 29620000, "id": "10-call", "label": "FM simplex", "kind": "simplex" },
+        { "startHz": 29620000, "endHz": 29700000, "id": "10-out", "label": "Repeater outputs", "kind": "repeater-out" }
+      ]
+    },
+    {
+      "id": "6m",
+      "name": "6 Meters",
+      "label": "6m",
+      "rangeLabel": "50–54 MHz",
+      "minHz": 50000000,
+      "maxHz": 54000000,
+      "edgePadHz": 200000,
+      "defaultOffsetHz": 1000000,
+      "channelWidthHz": 20000,
+      "minSpanHz": 50000,
+      "markers": [
+        { "hz": 50110000, "label": "50.110 DX SSB calling", "short": "DX SSB", "kind": "call" },
+        { "hz": 50125000, "label": "50.125 SSB calling", "short": "SSB call", "kind": "call" },
+        { "hz": 50620000, "label": "50.620 digital/packet calling", "short": "Digital", "kind": "aprs" },
+        { "hz": 52525000, "label": "52.525 FM simplex calling", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 50000000, "endHz": 50100000, "id": "6-cw", "label": "CW / EME", "kind": "weak" },
+        { "startHz": 50100000, "endHz": 50300000, "id": "6-ssb", "label": "SSB", "kind": "ssb" },
+        { "startHz": 50300000, "endHz": 50600000, "id": "6-all", "label": "All mode", "kind": "experimental" },
+        { "startHz": 50600000, "endHz": 50800000, "id": "6-dig", "label": "Digital", "kind": "experimental" },
+        { "startHz": 50800000, "endHz": 51000000, "id": "6-rc", "label": "RC", "kind": "beacon" },
+        { "startHz": 51000000, "endHz": 51120000, "id": "6-dx", "label": "Pacific DX", "kind": "ssb" },
+        { "startHz": 51120000, "endHz": 51480000, "id": "6-in-51", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 51480000, "endHz": 51620000, "id": "6-sx-51", "label": "Simplex", "kind": "simplex" },
+        { "startHz": 51620000, "endHz": 51980000, "id": "6-out-51", "label": "Repeater outputs", "kind": "repeater-out" },
+        { "startHz": 51980000, "endHz": 52000000, "id": "6-gap-52", "label": "", "kind": "gap" },
+        { "startHz": 52000000, "endHz": 53000000, "id": "6-in-52", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 53000000, "endHz": 54000000, "id": "6-out-53", "label": "Repeater outputs", "kind": "repeater-out" }
+      ]
+    },
+    {
+      "id": "2m",
+      "name": "2 Meters",
+      "label": "2m",
+      "rangeLabel": "144–148 MHz",
+      "minHz": 144000000,
+      "maxHz": 148000000,
+      "edgePadHz": 200000,
+      "defaultOffsetHz": 600000,
+      "channelWidthHz": 15000,
+      "minSpanHz": 50000,
+      "markers": [
+        { "hz": 144200000, "label": "144.200 SSB calling", "short": "SSB call", "kind": "call" },
+        { "hz": 144390000, "label": "144.390 APRS", "short": "APRS", "kind": "aprs" },
+        { "hz": 144490000, "label": "144.490 ISS voice uplink (R2)", "short": "ISS up", "kind": "iss" },
+        { "hz": 145670000, "label": "145.670 D-STAR simplex calling", "short": "D-STAR", "kind": "call" },
+        { "hz": 145800000, "label": "145.800 ISS voice/SSTV downlink", "short": "ISS down", "kind": "iss" },
+        { "hz": 145825000, "label": "145.825 ISS packet", "short": "ISS pkt", "kind": "iss" },
+        { "hz": 145990000, "label": "145.990 ISS repeater uplink", "short": "ISS rptr up", "kind": "iss" },
+        { "hz": 146520000, "label": "146.520 national FM simplex", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 144000000, "endHz": 144050000, "id": "eme-cw", "label": "EME CW", "kind": "weak" },
+        { "startHz": 144050000, "endHz": 144100000, "id": "cw-weak", "label": "CW / weak", "kind": "weak" },
+        { "startHz": 144100000, "endHz": 144200000, "id": "eme-ssb", "label": "EME / SSB", "kind": "ssb" },
+        { "startHz": 144200000, "endHz": 144275000, "id": "ssb", "label": "SSB", "kind": "ssb" },
+        { "startHz": 144275000, "endHz": 144300000, "id": "beacons", "label": "Beacons", "kind": "beacon" },
+        { "startHz": 144300000, "endHz": 144500000, "id": "oscar-low", "label": "OSCAR", "kind": "satellite" },
+        { "startHz": 144500000, "endHz": 144600000, "id": "lin-in", "label": "Translator in", "kind": "translator-in" },
+        { "startHz": 144600000, "endHz": 144900000, "id": "rptr-in-low", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 144900000, "endHz": 145100000, "id": "simplex-low", "label": "Simplex / packet", "kind": "simplex" },
+        { "startHz": 145100000, "endHz": 145200000, "id": "lin-out", "label": "Translator out", "kind": "translator-out" },
+        { "startHz": 145200000, "endHz": 145500000, "id": "rptr-out-low", "label": "Repeater outputs", "kind": "repeater-out" },
+        { "startHz": 145500000, "endHz": 145800000, "id": "experimental", "label": "Experimental", "kind": "experimental" },
+        { "startHz": 145800000, "endHz": 146000000, "id": "oscar-mid", "label": "OSCAR", "kind": "satellite" },
+        { "startHz": 146000000, "endHz": 146400000, "id": "rptr-in-mid", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 146400000, "endHz": 146580000, "id": "simplex-mid", "label": "Simplex", "kind": "simplex" },
+        { "startHz": 146580000, "endHz": 146610000, "id": "guard-mid", "label": "", "kind": "gap" },
+        { "startHz": 146610000, "endHz": 146995000, "id": "rptr-out-mid", "label": "Repeater outputs", "kind": "repeater-out" },
+        { "startHz": 146995000, "endHz": 147400000, "id": "rptr-out-high", "label": "Repeater outputs", "kind": "repeater-out" },
+        { "startHz": 147400000, "endHz": 147600000, "id": "simplex-high", "label": "Simplex", "kind": "simplex" },
+        { "startHz": 147600000, "endHz": 148000000, "id": "rptr-in-high", "label": "Repeater inputs", "kind": "repeater-in" }
+      ]
+    },
+    {
+      "id": "1.25",
+      "name": "1.25 Meters",
+      "label": "1.25m",
+      "rangeLabel": "222–225 MHz",
+      "minHz": 222000000,
+      "maxHz": 225000000,
+      "edgePadHz": 200000,
+      "defaultOffsetHz": 1600000,
+      "channelWidthHz": 20000,
+      "minSpanHz": 40000,
+      "markers": [
+        { "hz": 222100000, "label": "222.100 SSB/CW calling", "short": "SSB call", "kind": "call" },
+        { "hz": 223500000, "label": "223.500 national FM simplex", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 222000000, "endHz": 222150000, "id": "125-weak", "label": "Weak signal", "kind": "weak" },
+        { "startHz": 222150000, "endHz": 222250000, "id": "125-guard", "label": "Weak / mixed", "kind": "experimental" },
+        { "startHz": 222250000, "endHz": 223380000, "id": "125-in", "label": "Repeater inputs", "kind": "repeater-in" },
+        { "startHz": 223380000, "endHz": 223400000, "id": "125-gap", "label": "", "kind": "gap" },
+        { "startHz": 223400000, "endHz": 223520000, "id": "125-sx", "label": "Simplex", "kind": "simplex" },
+        { "startHz": 223520000, "endHz": 223640000, "id": "125-dig", "label": "Digital", "kind": "experimental" },
+        { "startHz": 223640000, "endHz": 223700000, "id": "125-link", "label": "Links / control", "kind": "beacon" },
+        { "startHz": 223700000, "endHz": 225000000, "id": "125-out", "label": "Repeater outputs", "kind": "repeater-out" }
+      ]
+    },
+    {
+      "id": "70cm",
+      "name": "70 Centimeters",
+      "label": "70cm",
+      "rangeLabel": "440–450 MHz",
+      "minHz": 437000000,
+      "maxHz": 450000000,
+      "edgePadHz": 500000,
+      "defaultOffsetHz": 5000000,
+      "channelWidthHz": 25000,
+      "minSpanHz": 100000,
+      "markers": [
+        { "hz": 437800000, "label": "437.800 ISS repeater downlink", "short": "ISS down", "kind": "iss" },
+        { "hz": 437825000, "label": "437.825 ISS UHF packet/APRS", "short": "ISS pkt", "kind": "iss" },
+        { "hz": 446000000, "label": "446.000 national FM simplex", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 437000000, "endHz": 440000000, "id": "70-sat", "label": "Satellite / ISS", "kind": "satellite" },
+        { "startHz": 440000000, "endHz": 446000000, "id": "70-pair-lo", "label": "Repeater pairs", "kind": "repeater-pair" },
+        { "startHz": 446000000, "endHz": 446100000, "id": "70-sx", "label": "Simplex", "kind": "simplex" },
+        { "startHz": 446100000, "endHz": 450000000, "id": "70-pair-hi", "label": "Repeater pairs", "kind": "repeater-pair" }
+      ]
+    },
+    {
+      "id": "902",
+      "name": "33 Centimeters",
+      "label": "33cm",
+      "rangeLabel": "902–928 MHz",
+      "minHz": 902000000,
+      "maxHz": 928000000,
+      "edgePadHz": 500000,
+      "defaultOffsetHz": 25000000,
+      "channelWidthHz": 12500,
+      "minSpanHz": 100000,
+      "markers": [
+        { "hz": 902100000, "label": "902.100 weak-signal calling", "short": "SSB call", "kind": "call" },
+        { "hz": 927500000, "label": "927.500 FM simplex calling", "short": "FM call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 902000000, "endHz": 903000000, "id": "33-pair-lo", "label": "Repeater pairs", "kind": "repeater-pair" },
+        { "startHz": 903000000, "endHz": 927000000, "id": "33-mid", "label": "Weak / mixed", "kind": "experimental" },
+        { "startHz": 927000000, "endHz": 928000000, "id": "33-pair-hi", "label": "Repeater pairs", "kind": "repeater-pair" }
+      ]
+    },
+    {
+      "id": "1.2",
+      "name": "23 Centimeters",
+      "label": "23cm",
+      "rangeLabel": "1240–1300 MHz",
+      "minHz": 1240000000,
+      "maxHz": 1300000000,
+      "edgePadHz": 2000000,
+      "defaultOffsetHz": 12000000,
+      "channelWidthHz": 25000,
+      "minSpanHz": 200000,
+      "markers": [
+        { "hz": 1294500000, "label": "1294.500 FM simplex calling", "short": "FM call", "kind": "call" },
+        { "hz": 1296100000, "label": "1296.100 SSB calling", "short": "SSB call", "kind": "call" }
+      ],
+      "segments": [
+        { "startHz": 1240000000, "endHz": 1270000000, "id": "23-lo", "label": "ATV / mixed", "kind": "experimental" },
+        { "startHz": 1270000000, "endHz": 1295000000, "id": "23-pairs", "label": "Repeater pairs", "kind": "repeater-pair" },
+        { "startHz": 1295000000, "endHz": 1297000000, "id": "23-weak", "label": "Weak signal", "kind": "weak" },
+        { "startHz": 1297000000, "endHz": 1300000000, "id": "23-hi", "label": "Mixed", "kind": "experimental" }
+      ]
+    }
+  ]
+}

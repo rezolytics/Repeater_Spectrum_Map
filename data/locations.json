@@ -1,0 +1,3171 @@
+{
+  "geocodedAt": "2026-09-30T14:14:09Z",
+  "count": 452,
+  "missing": [],
+  "sites": {
+    "Bristol|CT": {
+      "lat": 41.67118,
+      "lon": -72.94301,
+      "label": "Bristol, CT",
+      "source": "nominatim",
+      "query": "Bristol, Connecticut, USA"
+    },
+    "Providence|RI": {
+      "lat": 41.82399,
+      "lon": -71.41283,
+      "label": "Providence, RI",
+      "source": "nominatim",
+      "query": "Providence, Rhode Island, USA"
+    },
+    "Dover|NH": {
+      "lat": 43.19811,
+      "lon": -70.87398,
+      "label": "Dover, NH",
+      "source": "nominatim",
+      "query": "Dover, New Hampshire, USA"
+    },
+    "Marlborough|MA": {
+      "lat": 42.34686,
+      "lon": -71.55252,
+      "label": "Marlborough, MA",
+      "source": "nominatim",
+      "query": "Marlborough, Massachusetts, USA"
+    },
+    "Weston|MA": {
+      "lat": 42.36676,
+      "lon": -71.30311,
+      "label": "Weston, MA",
+      "source": "nominatim",
+      "query": "Weston, Massachusetts, USA"
+    },
+    "Ossipee|NH": {
+      "lat": 43.75505,
+      "lon": -71.15285,
+      "label": "Ossipee, NH",
+      "source": "nominatim",
+      "query": "Ossipee, New Hampshire, USA"
+    },
+    "Barnstable|MA": {
+      "lat": 41.70169,
+      "lon": -70.30362,
+      "label": "Barnstable, MA",
+      "source": "nominatim",
+      "query": "Barnstable, Massachusetts, USA"
+    },
+    "Litchfield|ME": {
+      "lat": 44.15444,
+      "lon": -69.94655,
+      "label": "Litchfield, ME",
+      "source": "nominatim",
+      "query": "Litchfield, Maine, USA"
+    },
+    "Claremont|NH": {
+      "lat": 43.37276,
+      "lon": -72.33825,
+      "label": "Claremont, NH",
+      "source": "nominatim",
+      "query": "Claremont, New Hampshire, USA"
+    },
+    "Pelham|MA": {
+      "lat": 42.39242,
+      "lon": -72.40347,
+      "label": "Pelham, MA",
+      "source": "nominatim",
+      "query": "Pelham, Massachusetts, USA"
+    },
+    "Granville|MA": {
+      "lat": 42.0671,
+      "lon": -72.86117,
+      "label": "Granville, MA",
+      "source": "nominatim",
+      "query": "Granville, Massachusetts, USA"
+    },
+    "Greenfield|MA": {
+      "lat": 42.58763,
+      "lon": -72.60021,
+      "label": "Greenfield, MA",
+      "source": "nominatim",
+      "query": "Greenfield, Massachusetts, USA"
+    },
+    "Woodstock|ME": {
+      "lat": 44.3784,
+      "lon": -70.64586,
+      "label": "Woodstock, ME",
+      "source": "nominatim",
+      "query": "Woodstock, Maine, USA"
+    },
+    "Danbury|CT": {
+      "lat": 41.39482,
+      "lon": -73.45401,
+      "label": "Danbury, CT",
+      "source": "nominatim",
+      "query": "Danbury, Connecticut, USA"
+    },
+    "Bow|NH": {
+      "lat": 43.13306,
+      "lon": -71.54915,
+      "label": "Bow, NH",
+      "source": "nominatim",
+      "query": "Bow, New Hampshire, USA"
+    },
+    "Portsmouth|RI": {
+      "lat": 41.60241,
+      "lon": -71.25032,
+      "label": "Portsmouth, RI",
+      "source": "nominatim",
+      "query": "Portsmouth, Rhode Island, USA"
+    },
+    "East Hartland|CT": {
+      "lat": 41.99875,
+      "lon": -72.90512,
+      "label": "East Hartland, CT",
+      "source": "nominatim",
+      "query": "East Hartland, Connecticut, USA"
+    },
+    "Mt. Greylock|MA": {
+      "lat": 42.63726,
+      "lon": -73.16599,
+      "label": "Mt. Greylock, MA",
+      "source": "nominatim",
+      "query": "Mount Greylock, Massachusetts, USA"
+    },
+    "Milford|CT": {
+      "lat": 41.22222,
+      "lon": -73.05706,
+      "label": "Milford, CT",
+      "source": "nominatim",
+      "query": "Milford, Connecticut, USA"
+    },
+    "Framingham|MA": {
+      "lat": 42.27732,
+      "lon": -71.41659,
+      "label": "Framingham, MA",
+      "source": "nominatim",
+      "query": "Framingham, Massachusetts, USA"
+    },
+    "Tolland|CT": {
+      "lat": 41.87002,
+      "lon": -72.36772,
+      "label": "Tolland, CT",
+      "source": "nominatim",
+      "query": "Tolland, Connecticut, USA"
+    },
+    "Exeter|ME": {
+      "lat": 44.97015,
+      "lon": -69.14113,
+      "label": "Exeter, ME",
+      "source": "nominatim",
+      "query": "Exeter, Maine, USA"
+    },
+    "Mt. Wachusett|MA": {
+      "lat": 42.50321,
+      "lon": -71.88623,
+      "label": "Mt. Wachusett, MA",
+      "source": "nominatim",
+      "query": "Wachusett Mountain, Princeton, Massachusetts, USA"
+    },
+    "Warren|MA": {
+      "lat": 42.21286,
+      "lon": -72.19265,
+      "label": "Warren, MA",
+      "source": "nominatim",
+      "query": "Warren, Massachusetts, USA"
+    },
+    "Norwell|MA": {
+      "lat": 42.16177,
+      "lon": -70.79393,
+      "label": "Norwell, MA",
+      "source": "nominatim",
+      "query": "Norwell, Massachusetts, USA"
+    },
+    "Hiram|ME": {
+      "lat": 43.87872,
+      "lon": -70.80318,
+      "label": "Hiram, ME",
+      "source": "nominatim",
+      "query": "Hiram, Maine, USA"
+    },
+    "Braintree|MA": {
+      "lat": 42.2206,
+      "lon": -71.00412,
+      "label": "Braintree, MA",
+      "source": "nominatim",
+      "query": "Braintree, Massachusetts, USA"
+    },
+    "Montville|CT": {
+      "lat": 41.44882,
+      "lon": -72.12949,
+      "label": "Montville, CT",
+      "source": "nominatim",
+      "query": "Montville, Connecticut, USA"
+    },
+    "Brookline|NH": {
+      "lat": 42.73481,
+      "lon": -71.65813,
+      "label": "Brookline, NH",
+      "source": "nominatim",
+      "query": "Brookline, New Hampshire, USA"
+    },
+    "Uxbridge|MA": {
+      "lat": 42.07682,
+      "lon": -71.62985,
+      "label": "Uxbridge, MA",
+      "source": "nominatim",
+      "query": "Uxbridge, Massachusetts, USA"
+    },
+    "Vernon|CT": {
+      "lat": 41.83829,
+      "lon": -72.46633,
+      "label": "Vernon, CT",
+      "source": "nominatim",
+      "query": "Vernon, Connecticut, USA"
+    },
+    "Rocky Hill|CT": {
+      "lat": 41.66482,
+      "lon": -72.63926,
+      "label": "Rocky Hill, CT",
+      "source": "nominatim",
+      "query": "Rocky Hill, Connecticut, USA"
+    },
+    "Washington|ME": {
+      "lat": 44.97444,
+      "lon": -67.62876,
+      "label": "Washington, ME",
+      "source": "nominatim",
+      "query": "Washington, Maine, USA"
+    },
+    "Oakham|MA": {
+      "lat": 42.35485,
+      "lon": -72.04347,
+      "label": "Oakham, MA",
+      "source": "nominatim",
+      "query": "Oakham, Massachusetts, USA"
+    },
+    "Waterford|CT": {
+      "lat": 41.34302,
+      "lon": -72.12905,
+      "label": "Waterford, CT",
+      "source": "nominatim",
+      "query": "Waterford, Connecticut, USA"
+    },
+    "Keene|NH": {
+      "lat": 42.9336,
+      "lon": -72.27843,
+      "label": "Keene, NH",
+      "source": "nominatim",
+      "query": "Keene, New Hampshire, USA"
+    },
+    "Hamden|CT": {
+      "lat": 41.38362,
+      "lon": -72.90201,
+      "label": "Hamden, CT",
+      "source": "nominatim",
+      "query": "Hamden, Connecticut, USA"
+    },
+    "Gilford|NH": {
+      "lat": 43.54805,
+      "lon": -71.40701,
+      "label": "Gilford, NH",
+      "source": "nominatim",
+      "query": "Gilford, New Hampshire, USA"
+    },
+    "Fitchburg|MA": {
+      "lat": 42.5839,
+      "lon": -71.80383,
+      "label": "Fitchburg, MA",
+      "source": "nominatim",
+      "query": "Fitchburg, Massachusetts, USA"
+    },
+    "Danvers|MA": {
+      "lat": 42.5665,
+      "lon": -70.9363,
+      "label": "Danvers, MA",
+      "source": "nominatim",
+      "query": "Danvers, Massachusetts, USA"
+    },
+    "Greenville|RI": {
+      "lat": 41.88648,
+      "lon": -71.55375,
+      "label": "Greenville, RI",
+      "source": "nominatim",
+      "query": "Greenville, Rhode Island, USA"
+    },
+    "Pepperell|MA": {
+      "lat": 42.66503,
+      "lon": -71.57859,
+      "label": "Pepperell, MA",
+      "source": "nominatim",
+      "query": "Pepperell, Massachusetts, USA"
+    },
+    "Warren|CT": {
+      "lat": 41.74287,
+      "lon": -73.34873,
+      "label": "Warren, CT",
+      "source": "nominatim",
+      "query": "Warren, Connecticut, USA"
+    },
+    "Concord|MA": {
+      "lat": 42.46052,
+      "lon": -71.3489,
+      "label": "Concord, MA",
+      "source": "nominatim",
+      "query": "Concord, Massachusetts, USA"
+    },
+    "New Bedford|MA": {
+      "lat": 41.63622,
+      "lon": -70.93421,
+      "label": "New Bedford, MA",
+      "source": "nominatim",
+      "query": "New Bedford, Massachusetts, USA"
+    },
+    "Shapleigh|ME": {
+      "lat": 43.54065,
+      "lon": -70.84743,
+      "label": "Shapleigh, ME",
+      "source": "nominatim",
+      "query": "Shapleigh, Maine, USA"
+    },
+    "Deerfield|MA": {
+      "lat": 42.5437,
+      "lon": -72.60466,
+      "label": "Deerfield, MA",
+      "source": "nominatim",
+      "query": "Deerfield, Massachusetts, USA"
+    },
+    "Gloucester|MA": {
+      "lat": 42.61536,
+      "lon": -70.66246,
+      "label": "Gloucester, MA",
+      "source": "nominatim",
+      "query": "Gloucester, Massachusetts, USA"
+    },
+    "Eddington|ME": {
+      "lat": 44.82618,
+      "lon": -68.69337,
+      "label": "Eddington, ME",
+      "source": "nominatim",
+      "query": "Eddington, Maine, USA"
+    },
+    "West Warwick|RI": {
+      "lat": 41.70613,
+      "lon": -71.52215,
+      "label": "West Warwick, RI",
+      "source": "nominatim",
+      "query": "West Warwick, Rhode Island, USA"
+    },
+    "Norwich|VT": {
+      "lat": 43.71367,
+      "lon": -72.30815,
+      "label": "Norwich, VT",
+      "source": "nominatim",
+      "query": "Norwich, Vermont, USA"
+    },
+    "Holliston|MA": {
+      "lat": 42.2001,
+      "lon": -71.4245,
+      "label": "Holliston, MA",
+      "source": "nominatim",
+      "query": "Holliston, Massachusetts, USA"
+    },
+    "New Sharon|ME": {
+      "lat": 44.63895,
+      "lon": -70.01561,
+      "label": "New Sharon, ME",
+      "source": "nominatim",
+      "query": "New Sharon, Maine, USA"
+    },
+    "Fall River|MA": {
+      "lat": 41.70106,
+      "lon": -71.15464,
+      "label": "Fall River, MA",
+      "source": "nominatim",
+      "query": "Fall River, Massachusetts, USA"
+    },
+    "Feeding Hills|MA": {
+      "lat": 42.06717,
+      "lon": -72.6786,
+      "label": "Feeding Hills, MA",
+      "source": "nominatim",
+      "query": "Feeding Hills, Massachusetts, USA"
+    },
+    "Calais|ME": {
+      "lat": 45.18902,
+      "lon": -67.27814,
+      "label": "Calais, ME",
+      "source": "nominatim",
+      "query": "Calais, Maine, USA"
+    },
+    "Kensington|NH": {
+      "lat": 42.92833,
+      "lon": -70.94349,
+      "label": "Kensington, NH",
+      "source": "nominatim",
+      "query": "Kensington, New Hampshire, USA"
+    },
+    "Bolton|VT": {
+      "lat": 44.37331,
+      "lon": -72.87851,
+      "label": "Bolton, VT",
+      "source": "nominatim",
+      "query": "Bolton, Vermont, USA"
+    },
+    "Brookline|MA": {
+      "lat": 42.33292,
+      "lon": -71.11878,
+      "label": "Brookline, MA",
+      "source": "nominatim",
+      "query": "Brookline, Massachusetts, USA"
+    },
+    "Southington|CT": {
+      "lat": 41.79189,
+      "lon": -72.74411,
+      "label": "Southington, CT",
+      "source": "photon",
+      "query": "Southington, Hartford County, Connecticut, USA"
+    },
+    "Rumford|ME": {
+      "lat": 44.5506,
+      "lon": -70.53643,
+      "label": "Rumford, ME",
+      "source": "photon",
+      "query": "Rumford, Oxford County, Maine, USA"
+    },
+    "Cumberland|RI": {
+      "lat": 41.96439,
+      "lon": -71.41707,
+      "label": "Cumberland, RI",
+      "source": "photon",
+      "query": "Cumberland, Providence County, Rhode Island, USA"
+    },
+    "Chelmsford|MA": {
+      "lat": 42.59686,
+      "lon": -71.35176,
+      "label": "Chelmsford, MA",
+      "source": "photon",
+      "query": "Chelmsford, Middlesex County, Massachusetts, USA"
+    },
+    "Edgartown|MA": {
+      "lat": 41.38942,
+      "lon": -70.51297,
+      "label": "Edgartown, MA",
+      "source": "photon",
+      "query": "Edgartown, Massachusetts, USA"
+    },
+    "Northampton|MA": {
+      "lat": 42.36408,
+      "lon": -72.70745,
+      "label": "Northampton, MA",
+      "source": "photon",
+      "query": "Northampton, Hampshire County, Massachusetts, USA"
+    },
+    "Presque Isle|ME": {
+      "lat": 46.65735,
+      "lon": -68.00426,
+      "label": "Presque Isle, ME",
+      "source": "photon",
+      "query": "Presque Isle, Aroostook County, Maine, USA"
+    },
+    "Campton|NH": {
+      "lat": 43.871,
+      "lon": -71.62612,
+      "label": "Campton, NH",
+      "source": "photon",
+      "query": "Campton, Grafton County, New Hampshire, USA"
+    },
+    "Peru|ME": {
+      "lat": 44.52652,
+      "lon": -70.46388,
+      "label": "Peru, ME",
+      "source": "photon",
+      "query": "Peru, Maine, USA"
+    },
+    "Smyrna|ME": {
+      "lat": 46.1297,
+      "lon": -68.16429,
+      "label": "Smyrna, ME",
+      "source": "photon",
+      "query": "Smyrna, Maine, USA"
+    },
+    "Chester|NH": {
+      "lat": 42.95675,
+      "lon": -71.25728,
+      "label": "Chester, NH",
+      "source": "photon",
+      "query": "Chester, New Hampshire, USA"
+    },
+    "Exeter|RI": {
+      "lat": 41.54599,
+      "lon": -71.53437,
+      "label": "Exeter, RI",
+      "source": "photon",
+      "query": "Exeter, Washington County, Rhode Island, USA"
+    },
+    "Bourne|MA": {
+      "lat": 41.68654,
+      "lon": -70.60087,
+      "label": "Bourne, MA",
+      "source": "photon",
+      "query": "Bourne, Barnstable County, Massachusetts, USA"
+    },
+    "Fort Kent|ME": {
+      "lat": 47.2559,
+      "lon": -68.59046,
+      "label": "Fort Kent, ME",
+      "source": "photon",
+      "query": "Fort Kent, Maine, USA"
+    },
+    "Goffstown|NH": {
+      "lat": 43.00648,
+      "lon": -71.53219,
+      "label": "Goffstown, NH",
+      "source": "photon",
+      "query": "Goffstown, Hillsborough County, New Hampshire, USA"
+    },
+    "Boston|MA": {
+      "lat": 42.3592,
+      "lon": -71.06113,
+      "label": "Boston, MA",
+      "source": "photon",
+      "query": "Boston, Suffolk County, Massachusetts, USA"
+    },
+    "Falmouth|MA": {
+      "lat": 41.61672,
+      "lon": -70.53863,
+      "label": "Falmouth, MA",
+      "source": "photon",
+      "query": "Falmouth, Barnstable County, Massachusetts, USA"
+    },
+    "Bridgton|ME": {
+      "lat": 44.05916,
+      "lon": -70.82037,
+      "label": "Bridgton, ME",
+      "source": "photon",
+      "query": "Bridgton, Cumberland County, Maine, USA"
+    },
+    "Gouldsboro|ME": {
+      "lat": 44.47621,
+      "lon": -67.99304,
+      "label": "Gouldsboro, ME",
+      "source": "photon",
+      "query": "Gouldsboro, Hancock County, Maine, USA"
+    },
+    "Coventry|RI": {
+      "lat": 41.71414,
+      "lon": -71.54726,
+      "label": "Coventry, RI",
+      "source": "photon",
+      "query": "Coventry, Kent County, Rhode Island, USA"
+    },
+    "Dexter|ME": {
+      "lat": 45.02415,
+      "lon": -69.29,
+      "label": "Dexter, ME",
+      "source": "photon",
+      "query": "Dexter, Maine, USA"
+    },
+    "Newtown|CT": {
+      "lat": 41.3084,
+      "lon": -73.31363,
+      "label": "Newtown, CT",
+      "source": "photon",
+      "query": "Newtown, Fairfield County, Connecticut, USA"
+    },
+    "Saint Albans|VT": {
+      "lat": 44.81079,
+      "lon": -73.08336,
+      "label": "Saint Albans, VT",
+      "source": "photon",
+      "query": "Saint Albans, Franklin County, Vermont, USA"
+    },
+    "Sidney|ME": {
+      "lat": 44.44653,
+      "lon": -69.74052,
+      "label": "Sidney, ME",
+      "source": "photon",
+      "query": "Sidney, Maine, USA"
+    },
+    "Rochester|NH": {
+      "lat": 43.30311,
+      "lon": -70.9753,
+      "label": "Rochester, NH",
+      "source": "photon",
+      "query": "Rochester, Strafford County, New Hampshire, USA"
+    },
+    "Clarksville|NH": {
+      "lat": 44.99677,
+      "lon": -71.41588,
+      "label": "Clarksville, NH",
+      "source": "photon",
+      "query": "Clarksville, Coos County, New Hampshire, USA"
+    },
+    "Hudson|NH": {
+      "lat": 42.72952,
+      "lon": -71.42871,
+      "label": "Hudson, NH",
+      "source": "photon",
+      "query": "Hudson, Hillsborough County, New Hampshire, USA"
+    },
+    "Great Barrington|MA": {
+      "lat": 42.1689,
+      "lon": -73.385,
+      "label": "Great Barrington, MA",
+      "source": "photon",
+      "query": "Great Barrington, Berkshire County, Massachusetts, USA"
+    },
+    "Harwich|MA": {
+      "lat": 41.66737,
+      "lon": -70.07995,
+      "label": "Harwich, MA",
+      "source": "photon",
+      "query": "Harwich, Barnstable County, Massachusetts, USA"
+    },
+    "Southborough|MA": {
+      "lat": 42.30565,
+      "lon": -71.52451,
+      "label": "Southborough, MA",
+      "source": "photon",
+      "query": "Southborough, Worcester County, Massachusetts, USA"
+    },
+    "Palermo|ME": {
+      "lat": 44.40804,
+      "lon": -69.47286,
+      "label": "Palermo, ME",
+      "source": "photon",
+      "query": "Palermo, Maine, USA"
+    },
+    "Plymouth|MA": {
+      "lat": 42.10038,
+      "lon": -70.82026,
+      "label": "Plymouth, MA",
+      "source": "photon",
+      "query": "Plymouth, Plymouth County, Massachusetts, USA"
+    },
+    "Wakefield|NH": {
+      "lat": 43.55393,
+      "lon": -71.03048,
+      "label": "Wakefield, NH",
+      "source": "photon",
+      "query": "Wakefield, New Hampshire, USA"
+    },
+    "Killingworth|CT": {
+      "lat": 41.44694,
+      "lon": -72.52279,
+      "label": "Killingworth, CT",
+      "source": "photon",
+      "query": "Killingworth, Middlesex County, Connecticut, USA"
+    },
+    "Dartmouth|MA": {
+      "lat": 41.67166,
+      "lon": -71.01463,
+      "label": "Dartmouth, MA",
+      "source": "photon",
+      "query": "Dartmouth, Bristol County, Massachusetts, USA"
+    },
+    "Derry|NH": {
+      "lat": 42.89145,
+      "lon": -71.32737,
+      "label": "Derry, NH",
+      "source": "photon",
+      "query": "Derry, New Hampshire, USA"
+    },
+    "Methuen|MA": {
+      "lat": 42.7262,
+      "lon": -71.19089,
+      "label": "Methuen, MA",
+      "source": "photon",
+      "query": "Methuen, Massachusetts, USA"
+    },
+    "Worcester|MA": {
+      "lat": 42.28635,
+      "lon": -71.59503,
+      "label": "Worcester, MA",
+      "source": "photon",
+      "query": "Worcester, Massachusetts, USA"
+    },
+    "Holden|ME": {
+      "lat": 44.75285,
+      "lon": -68.67892,
+      "label": "Holden, ME",
+      "source": "photon",
+      "query": "Holden, Maine, USA"
+    },
+    "Salem|NH": {
+      "lat": 42.7885,
+      "lon": -71.2009,
+      "label": "Salem, NH",
+      "source": "photon",
+      "query": "Salem, New Hampshire, USA"
+    },
+    "Buckfield|ME": {
+      "lat": 44.28995,
+      "lon": -70.36537,
+      "label": "Buckfield, ME",
+      "source": "photon",
+      "query": "Buckfield, Maine, USA"
+    },
+    "Swansea|MA": {
+      "lat": 41.74816,
+      "lon": -71.18977,
+      "label": "Swansea, MA",
+      "source": "photon",
+      "query": "Swansea, Massachusetts, USA"
+    },
+    "Wales|ME": {
+      "lat": 44.18357,
+      "lon": -70.06545,
+      "label": "Wales, ME",
+      "source": "photon",
+      "query": "Wales, Maine, USA"
+    },
+    "Manchester|CT": {
+      "lat": 41.7834,
+      "lon": -72.5232,
+      "label": "Manchester, CT",
+      "source": "photon",
+      "query": "Manchester, Connecticut, USA"
+    },
+    "Bristol|RI": {
+      "lat": 41.67705,
+      "lon": -71.26616,
+      "label": "Bristol, RI",
+      "source": "photon",
+      "query": "Bristol, Rhode Island, USA"
+    },
+    "Westford|MA": {
+      "lat": 42.57926,
+      "lon": -71.43784,
+      "label": "Westford, MA",
+      "source": "photon",
+      "query": "Westford, Massachusetts, USA"
+    },
+    "Falmouth|ME": {
+      "lat": 43.72199,
+      "lon": -70.23271,
+      "label": "Falmouth, ME",
+      "source": "photon",
+      "query": "Falmouth, Maine, USA"
+    },
+    "Hanover|NH": {
+      "lat": 43.70235,
+      "lon": -72.28922,
+      "label": "Hanover, NH",
+      "source": "nominatim",
+      "query": "Hanover, New Hampshire, USA"
+    },
+    "Wethersfield|CT": {
+      "lat": 41.71427,
+      "lon": -72.65259,
+      "label": "Wethersfield, CT",
+      "source": "photon",
+      "query": "Wethersfield, Connecticut, USA"
+    },
+    "Gardner|MA": {
+      "lat": 42.57635,
+      "lon": -71.99527,
+      "label": "Gardner, MA",
+      "source": "photon",
+      "query": "Gardner, Massachusetts, USA"
+    },
+    "Haverhill|MA": {
+      "lat": 42.77778,
+      "lon": -71.07677,
+      "label": "Haverhill, MA",
+      "source": "photon",
+      "query": "Haverhill, Massachusetts, USA"
+    },
+    "Eastham|MA": {
+      "lat": 41.83059,
+      "lon": -69.97405,
+      "label": "Eastham, MA",
+      "source": "photon",
+      "query": "Eastham, Massachusetts, USA"
+    },
+    "Lincoln|ME": {
+      "lat": 44.11376,
+      "lon": -69.53513,
+      "label": "Lincoln, ME",
+      "source": "photon",
+      "query": "Lincoln, Maine, USA"
+    },
+    "North Providence|RI": {
+      "lat": 41.8501,
+      "lon": -71.46617,
+      "label": "North Providence, RI",
+      "source": "photon",
+      "query": "North Providence, Rhode Island, USA"
+    },
+    "Torrington|CT": {
+      "lat": 41.80065,
+      "lon": -73.12122,
+      "label": "Torrington, CT",
+      "source": "photon",
+      "query": "Torrington, Connecticut, USA"
+    },
+    "Marblehead|MA": {
+      "lat": 42.5001,
+      "lon": -70.85783,
+      "label": "Marblehead, MA",
+      "source": "photon",
+      "query": "Marblehead, Massachusetts, USA"
+    },
+    "Camden|ME": {
+      "lat": 44.21549,
+      "lon": -69.08517,
+      "label": "Camden, ME",
+      "source": "photon",
+      "query": "Camden, Maine, USA"
+    },
+    "Walpole|MA": {
+      "lat": 42.1459,
+      "lon": -71.25388,
+      "label": "Walpole, MA",
+      "source": "photon",
+      "query": "Walpole, Massachusetts, USA"
+    },
+    "Whitefield|NH": {
+      "lat": 44.37313,
+      "lon": -71.61197,
+      "label": "Whitefield, NH",
+      "source": "photon",
+      "query": "Whitefield, New Hampshire, USA"
+    },
+    "Madbury|NH": {
+      "lat": 43.16963,
+      "lon": -70.9243,
+      "label": "Madbury, NH",
+      "source": "photon",
+      "query": "Madbury, New Hampshire, USA"
+    },
+    "Ledyard|CT": {
+      "lat": 41.44237,
+      "lon": -72.01688,
+      "label": "Ledyard, CT",
+      "source": "photon",
+      "query": "Ledyard, Connecticut, USA"
+    },
+    "Marshfield|MA": {
+      "lat": 42.09177,
+      "lon": -70.70559,
+      "label": "Marshfield, MA",
+      "source": "photon",
+      "query": "Marshfield, Massachusetts, USA"
+    },
+    "Mt. Equinox|VT": {
+      "lat": 43.16607,
+      "lon": -73.11841,
+      "label": "Mt. Equinox, VT",
+      "source": "photon",
+      "query": "Mount Equinox, Vermont, USA"
+    },
+    "Harvard|MA": {
+      "lat": 42.36574,
+      "lon": -71.12221,
+      "label": "Harvard, MA",
+      "source": "photon",
+      "query": "Harvard, Massachusetts, USA"
+    },
+    "Wilton|ME": {
+      "lat": 44.58729,
+      "lon": -70.23124,
+      "label": "Wilton, ME",
+      "source": "photon",
+      "query": "Wilton, Maine, USA"
+    },
+    "Alfred|ME": {
+      "lat": 43.47665,
+      "lon": -70.71684,
+      "label": "Alfred, ME",
+      "source": "photon",
+      "query": "Alfred, Maine, USA"
+    },
+    "Knox|ME": {
+      "lat": 44.1773,
+      "lon": -69.21271,
+      "label": "Knox, ME",
+      "source": "photon",
+      "query": "Knox, Maine, USA"
+    },
+    "Burlington|MA": {
+      "lat": 42.48558,
+      "lon": -71.21997,
+      "label": "Burlington, MA",
+      "source": "photon",
+      "query": "Burlington, Massachusetts, USA"
+    },
+    "Bloomfield|CT": {
+      "lat": 41.8313,
+      "lon": -72.73703,
+      "label": "Bloomfield, CT",
+      "source": "photon",
+      "query": "Bloomfield, Connecticut, USA"
+    },
+    "Dresden|ME": {
+      "lat": 44.1076,
+      "lon": -69.72445,
+      "label": "Dresden, ME",
+      "source": "photon",
+      "query": "Dresden, Maine, USA"
+    },
+    "Hampton|NH": {
+      "lat": 42.94172,
+      "lon": -70.83787,
+      "label": "Hampton, NH",
+      "source": "photon",
+      "query": "Hampton, New Hampshire, USA"
+    },
+    "Cannon Mtn.|NH": {
+      "lat": 44.15669,
+      "lon": -71.69862,
+      "label": "Cannon Mtn., NH",
+      "source": "photon",
+      "query": "Cannon Mountain, Franconia, New Hampshire, USA"
+    },
+    "Newington|CT": {
+      "lat": 41.69788,
+      "lon": -72.72371,
+      "label": "Newington, CT",
+      "source": "nominatim",
+      "query": "Newington, Connecticut, USA"
+    },
+    "North Conway|NH": {
+      "lat": 44.03778,
+      "lon": -71.12382,
+      "label": "North Conway, NH",
+      "source": "photon",
+      "query": "North Conway, New Hampshire, USA"
+    },
+    "Franklin|NH": {
+      "lat": 43.44424,
+      "lon": -71.6473,
+      "label": "Franklin, NH",
+      "source": "photon",
+      "query": "Franklin, New Hampshire, USA"
+    },
+    "Glastonbury|CT": {
+      "lat": 41.71232,
+      "lon": -72.60815,
+      "label": "Glastonbury, CT",
+      "source": "photon",
+      "query": "Glastonbury, Connecticut, USA"
+    },
+    "Ridgefield|CT": {
+      "lat": 41.26778,
+      "lon": -73.49323,
+      "label": "Ridgefield, CT",
+      "source": "photon",
+      "query": "Ridgefield, Connecticut, USA"
+    },
+    "Orono|ME": {
+      "lat": 44.88361,
+      "lon": -68.67279,
+      "label": "Orono, ME",
+      "source": "photon",
+      "query": "Orono, Maine, USA"
+    },
+    "Meriden|CT": {
+      "lat": 41.53819,
+      "lon": -72.80261,
+      "label": "Meriden, CT",
+      "source": "nominatim",
+      "query": "Meriden, Connecticut, USA"
+    },
+    "Pembroke|NH": {
+      "lat": 43.14758,
+      "lon": -71.45804,
+      "label": "Pembroke, NH",
+      "source": "photon",
+      "query": "Pembroke, New Hampshire, USA"
+    },
+    "Warren|VT": {
+      "lat": 44.11393,
+      "lon": -72.85554,
+      "label": "Warren, VT",
+      "source": "photon",
+      "query": "Warren, Vermont, USA"
+    },
+    "Ipswich|MA": {
+      "lat": 42.67927,
+      "lon": -70.84116,
+      "label": "Ipswich, MA",
+      "source": "photon",
+      "query": "Ipswich, Massachusetts, USA"
+    },
+    "North Adams|MA": {
+      "lat": 42.69903,
+      "lon": -73.1119,
+      "label": "North Adams, MA",
+      "source": "photon",
+      "query": "North Adams, Massachusetts, USA"
+    },
+    "Assonet|MA": {
+      "lat": 41.79545,
+      "lon": -71.06773,
+      "label": "Assonet, MA",
+      "source": "photon",
+      "query": "Assonet, Massachusetts, USA"
+    },
+    "Bridgeport|CT": {
+      "lat": 41.19682,
+      "lon": -73.20074,
+      "label": "Bridgeport, CT",
+      "source": "photon",
+      "query": "Bridgeport, Connecticut, USA"
+    },
+    "Hingham|MA": {
+      "lat": 42.24177,
+      "lon": -70.88977,
+      "label": "Hingham, MA",
+      "source": "photon",
+      "query": "Hingham, Massachusetts, USA"
+    },
+    "Sudbury|MA": {
+      "lat": 42.38343,
+      "lon": -71.41617,
+      "label": "Sudbury, MA",
+      "source": "photon",
+      "query": "Sudbury, Massachusetts, USA"
+    },
+    "West Greenwich|RI": {
+      "lat": 41.62262,
+      "lon": -71.66579,
+      "label": "West Greenwich, RI",
+      "source": "photon",
+      "query": "West Greenwich, Rhode Island, USA"
+    },
+    "Wilmington|MA": {
+      "lat": 42.52658,
+      "lon": -71.1574,
+      "label": "Wilmington, MA",
+      "source": "photon",
+      "query": "Wilmington, Massachusetts, USA"
+    },
+    "Dennis|MA": {
+      "lat": 41.73539,
+      "lon": -70.19391,
+      "label": "Dennis, MA",
+      "source": "photon",
+      "query": "Dennis, Massachusetts, USA"
+    },
+    "Newton|MA": {
+      "lat": 42.35925,
+      "lon": -71.20537,
+      "label": "Newton, MA",
+      "source": "photon",
+      "query": "Newton, Massachusetts, USA"
+    },
+    "Norwalk|CT": {
+      "lat": 41.1176,
+      "lon": -73.4079,
+      "label": "Norwalk, CT",
+      "source": "nominatim",
+      "query": "Norwalk, Connecticut, USA"
+    },
+    "Pelham|NH": {
+      "lat": 42.734,
+      "lon": -71.32324,
+      "label": "Pelham, NH",
+      "source": "photon",
+      "query": "Pelham, New Hampshire, USA"
+    },
+    "West Haven|CT": {
+      "lat": 41.27065,
+      "lon": -72.94705,
+      "label": "West Haven, CT",
+      "source": "photon",
+      "query": "West Haven, Connecticut, USA"
+    },
+    "Mendon|MA": {
+      "lat": 42.10757,
+      "lon": -71.55352,
+      "label": "Mendon, MA",
+      "source": "photon",
+      "query": "Mendon, Massachusetts, USA"
+    },
+    "Sandwich|MA": {
+      "lat": 41.7579,
+      "lon": -70.49682,
+      "label": "Sandwich, MA",
+      "source": "photon",
+      "query": "Sandwich, Massachusetts, USA"
+    },
+    "Fairfield|CT": {
+      "lat": 41.14121,
+      "lon": -73.26373,
+      "label": "Fairfield, CT",
+      "source": "nominatim",
+      "query": "Fairfield, Connecticut, USA"
+    },
+    "Burlington|VT": {
+      "lat": 44.47616,
+      "lon": -73.21291,
+      "label": "Burlington, VT",
+      "source": "nominatim",
+      "query": "Burlington, Vermont, USA"
+    },
+    "Franklin|ME": {
+      "lat": 44.91681,
+      "lon": -70.43958,
+      "label": "Franklin, ME",
+      "source": "photon",
+      "query": "Franklin, Maine, USA"
+    },
+    "Lewiston|ME": {
+      "lat": 44.09907,
+      "lon": -70.21771,
+      "label": "Lewiston, ME",
+      "source": "photon",
+      "query": "Lewiston, Maine, USA"
+    },
+    "Orange|MA": {
+      "lat": 42.59087,
+      "lon": -72.30978,
+      "label": "Orange, MA",
+      "source": "photon",
+      "query": "Orange, Massachusetts, USA"
+    },
+    "West Newbury|MA": {
+      "lat": 42.80148,
+      "lon": -70.98978,
+      "label": "West Newbury, MA",
+      "source": "photon",
+      "query": "West Newbury, Massachusetts, USA"
+    },
+    "Vassalboro|ME": {
+      "lat": 44.45953,
+      "lon": -69.6779,
+      "label": "Vassalboro, ME",
+      "source": "photon",
+      "query": "Vassalboro, Maine, USA"
+    },
+    "Williamstown|VT": {
+      "lat": 44.12245,
+      "lon": -72.54139,
+      "label": "Williamstown, VT",
+      "source": "photon",
+      "query": "Williamstown, Vermont, USA"
+    },
+    "Hartford|CT": {
+      "lat": 41.76458,
+      "lon": -72.69085,
+      "label": "Hartford, CT",
+      "source": "photon",
+      "query": "Hartford, Connecticut, USA"
+    },
+    "Waltham|MA": {
+      "lat": 42.37624,
+      "lon": -71.23556,
+      "label": "Waltham, MA",
+      "source": "photon",
+      "query": "Waltham, Massachusetts, USA"
+    },
+    "Saponac|ME": {
+      "lat": 45.18763,
+      "lon": -68.38625,
+      "label": "Saponac, ME",
+      "source": "photon",
+      "query": "Saponac, Burlington, Maine, USA"
+    },
+    "Stamford|CT": {
+      "lat": 41.05343,
+      "lon": -73.53873,
+      "label": "Stamford, CT",
+      "source": "photon",
+      "query": "Stamford, Connecticut, USA"
+    },
+    "Clinton|MA": {
+      "lat": 42.42125,
+      "lon": -71.68741,
+      "label": "Clinton, MA",
+      "source": "photon",
+      "query": "Clinton, Massachusetts, USA"
+    },
+    "Mt. Washington|NH": {
+      "lat": 44.27049,
+      "lon": -71.3033,
+      "label": "Mt. Washington, NH",
+      "source": "photon",
+      "query": "Mount Washington, New Hampshire, USA"
+    },
+    "Groton|CT": {
+      "lat": 41.34655,
+      "lon": -72.03888,
+      "label": "Groton, CT",
+      "source": "nominatim",
+      "query": "Groton, Connecticut, USA"
+    },
+    "Topsfield|ME": {
+      "lat": 45.41896,
+      "lon": -67.73556,
+      "label": "Topsfield, ME",
+      "source": "photon",
+      "query": "Topsfield, Maine, USA"
+    },
+    "Sanbornton|NH": {
+      "lat": 43.4893,
+      "lon": -71.58279,
+      "label": "Sanbornton, NH",
+      "source": "photon",
+      "query": "Sanbornton, New Hampshire, USA"
+    },
+    "Augusta|ME": {
+      "lat": 44.3148,
+      "lon": -69.77439,
+      "label": "Augusta, ME",
+      "source": "photon",
+      "query": "Augusta, Maine, USA"
+    },
+    "Milton|MA": {
+      "lat": 42.25014,
+      "lon": -71.06557,
+      "label": "Milton, MA",
+      "source": "photon",
+      "query": "Milton, Massachusetts, USA"
+    },
+    "Bedford|NH": {
+      "lat": 42.94647,
+      "lon": -71.5159,
+      "label": "Bedford, NH",
+      "source": "photon",
+      "query": "Bedford, New Hampshire, USA"
+    },
+    "West Hartford|CT": {
+      "lat": 41.76204,
+      "lon": -72.74204,
+      "label": "West Hartford, CT",
+      "source": "photon",
+      "query": "West Hartford, Connecticut, USA"
+    },
+    "Berlin|NH": {
+      "lat": 44.46966,
+      "lon": -71.18107,
+      "label": "Berlin, NH",
+      "source": "photon",
+      "query": "Berlin, New Hampshire, USA"
+    },
+    "Van Buren|ME": {
+      "lat": 47.15629,
+      "lon": -67.9342,
+      "label": "Van Buren, ME",
+      "source": "photon",
+      "query": "Van Buren, Maine, USA"
+    },
+    "Northwood|NH": {
+      "lat": 43.19466,
+      "lon": -71.15158,
+      "label": "Northwood, NH",
+      "source": "nominatim",
+      "query": "Northwood, New Hampshire, USA"
+    },
+    "Auburn|NH": {
+      "lat": 43.00453,
+      "lon": -71.3484,
+      "label": "Auburn, NH",
+      "source": "photon",
+      "query": "Auburn, New Hampshire, USA"
+    },
+    "North Reading|MA": {
+      "lat": 42.57509,
+      "lon": -71.07867,
+      "label": "North Reading, MA",
+      "source": "photon",
+      "query": "North Reading, Massachusetts, USA"
+    },
+    "Holyoke|MA": {
+      "lat": 42.25533,
+      "lon": -72.56967,
+      "label": "Holyoke, MA",
+      "source": "photon",
+      "query": "Holyoke, Massachusetts, USA"
+    },
+    "Eagle Lake|ME": {
+      "lat": 47.04013,
+      "lon": -68.59627,
+      "label": "Eagle Lake, ME",
+      "source": "photon",
+      "query": "Eagle Lake, Maine, USA"
+    },
+    "Morrill|ME": {
+      "lat": 44.44313,
+      "lon": -69.14921,
+      "label": "Morrill, ME",
+      "source": "photon",
+      "query": "Morrill, Maine, USA"
+    },
+    "Alstead|NH": {
+      "lat": 43.14895,
+      "lon": -72.3613,
+      "label": "Alstead, NH",
+      "source": "photon",
+      "query": "Alstead, New Hampshire, USA"
+    },
+    "Saunderstown|RI": {
+      "lat": 41.50788,
+      "lon": -71.4245,
+      "label": "Saunderstown, RI",
+      "source": "photon",
+      "query": "Saunderstown, Rhode Island, USA"
+    },
+    "Norwich|CT": {
+      "lat": 41.52436,
+      "lon": -72.07591,
+      "label": "Norwich, CT",
+      "source": "nominatim",
+      "query": "Norwich, Connecticut, USA"
+    },
+    "Madison|ME": {
+      "lat": 44.79775,
+      "lon": -69.87978,
+      "label": "Madison, ME",
+      "source": "photon",
+      "query": "Madison, Maine, USA"
+    },
+    "New Milford|CT": {
+      "lat": 41.5771,
+      "lon": -73.41058,
+      "label": "New Milford, CT",
+      "source": "photon",
+      "query": "New Milford, Connecticut, USA"
+    },
+    "North Wade|ME": {
+      "lat": 46.75802,
+      "lon": -68.23625,
+      "label": "North Wade, ME",
+      "source": "photon",
+      "query": "Wade, Maine, USA"
+    },
+    "Hollis|NH": {
+      "lat": 42.74316,
+      "lon": -71.59133,
+      "label": "Hollis, NH",
+      "source": "photon",
+      "query": "Hollis, New Hampshire, USA"
+    },
+    "Canton|MA": {
+      "lat": 42.15843,
+      "lon": -71.14477,
+      "label": "Canton, MA",
+      "source": "photon",
+      "query": "Canton, Massachusetts, USA"
+    },
+    "Jay Peak|VT": {
+      "lat": 44.92423,
+      "lon": -72.52569,
+      "label": "Jay Peak, VT",
+      "source": "photon",
+      "query": "Jay Peak, Vermont, USA"
+    },
+    "Gray|ME": {
+      "lat": 43.88609,
+      "lon": -70.33036,
+      "label": "Gray, ME",
+      "source": "photon",
+      "query": "Gray, Maine, USA"
+    },
+    "Winslow|ME": {
+      "lat": 44.53824,
+      "lon": -69.62871,
+      "label": "Winslow, ME",
+      "source": "photon",
+      "query": "Winslow, Maine, USA"
+    },
+    "Scituate|RI": {
+      "lat": 41.78511,
+      "lon": -71.61104,
+      "label": "Scituate, RI",
+      "source": "photon",
+      "query": "Scituate, Rhode Island, USA"
+    },
+    "Mt. Ascutney|VT": {
+      "lat": 43.43818,
+      "lon": -72.43187,
+      "label": "Mt. Ascutney, VT",
+      "source": "photon",
+      "query": "Mount Ascutney, Vermont, USA"
+    },
+    "New Canaan|CT": {
+      "lat": 41.14206,
+      "lon": -73.48764,
+      "label": "New Canaan, CT",
+      "source": "photon",
+      "query": "New Canaan, Connecticut, USA"
+    },
+    "Westbrook|CT": {
+      "lat": 41.28603,
+      "lon": -72.44879,
+      "label": "Westbrook, CT",
+      "source": "photon",
+      "query": "Westbrook, Connecticut, USA"
+    },
+    "Athens|ME": {
+      "lat": 44.92349,
+      "lon": -69.67323,
+      "label": "Athens, ME",
+      "source": "photon",
+      "query": "Athens, Maine, USA"
+    },
+    "W. Bridgewater|MA": {
+      "lat": 42.01909,
+      "lon": -71.00797,
+      "label": "W. Bridgewater, MA",
+      "source": "photon",
+      "query": "West Bridgewater, Massachusetts, USA"
+    },
+    "Marshfield|ME": {
+      "lat": 44.73313,
+      "lon": -67.47749,
+      "label": "Marshfield, ME",
+      "source": "photon",
+      "query": "Marshfield, Maine, USA"
+    },
+    "Houlton|ME": {
+      "lat": 46.65735,
+      "lon": -68.00426,
+      "label": "Houlton, ME",
+      "source": "photon",
+      "query": "Houlton, Maine, USA"
+    },
+    "Rindge|NH": {
+      "lat": 42.7512,
+      "lon": -72.0098,
+      "label": "Rindge, NH",
+      "source": "photon",
+      "query": "Rindge, New Hampshire, USA"
+    },
+    "Nantucket|MA": {
+      "lat": 41.28444,
+      "lon": -70.09842,
+      "label": "Nantucket, MA",
+      "source": "photon",
+      "query": "Nantucket, Massachusetts, USA"
+    },
+    "New Gloucester|ME": {
+      "lat": 43.96325,
+      "lon": -70.28143,
+      "label": "New Gloucester, ME",
+      "source": "photon",
+      "query": "New Gloucester, Maine, USA"
+    },
+    "Dedham|ME": {
+      "lat": 44.69174,
+      "lon": -68.66198,
+      "label": "Dedham, ME",
+      "source": "photon",
+      "query": "Dedham, Maine, USA"
+    },
+    "Essex Junction|VT": {
+      "lat": 44.49068,
+      "lon": -73.11136,
+      "label": "Essex Junction, VT",
+      "source": "photon",
+      "query": "Essex Junction, Vermont, USA"
+    },
+    "Pittsfield|NH": {
+      "lat": 43.30518,
+      "lon": -71.328,
+      "label": "Pittsfield, NH",
+      "source": "photon",
+      "query": "Pittsfield, New Hampshire, USA"
+    },
+    "Greenfield|NH": {
+      "lat": 42.95064,
+      "lon": -71.8723,
+      "label": "Greenfield, NH",
+      "source": "photon",
+      "query": "Greenfield, New Hampshire, USA"
+    },
+    "Strafford|NH": {
+      "lat": 43.25453,
+      "lon": -70.9015,
+      "label": "Strafford, NH",
+      "source": "photon",
+      "query": "Strafford, New Hampshire, USA"
+    },
+    "Westmoreland|NH": {
+      "lat": 42.96203,
+      "lon": -72.44231,
+      "label": "Westmoreland, NH",
+      "source": "photon",
+      "query": "Westmoreland, New Hampshire, USA"
+    },
+    "Ashuelot|NH": {
+      "lat": 42.9695,
+      "lon": -72.30293,
+      "label": "Ashuelot, NH",
+      "source": "photon",
+      "query": "Ashuelot, New Hampshire, USA"
+    },
+    "Madawaska|ME": {
+      "lat": 47.28406,
+      "lon": -68.23596,
+      "label": "Madawaska, ME",
+      "source": "photon",
+      "query": "Madawaska, Maine, USA"
+    },
+    "Andover|MA": {
+      "lat": 42.65717,
+      "lon": -71.14088,
+      "label": "Andover, MA",
+      "source": "photon",
+      "query": "Andover, Massachusetts, USA"
+    },
+    "Hancock|ME": {
+      "lat": 44.71354,
+      "lon": -68.29948,
+      "label": "Hancock, ME",
+      "source": "photon",
+      "query": "Hancock, Maine, USA"
+    },
+    "Prospect|CT": {
+      "lat": 41.50232,
+      "lon": -72.97872,
+      "label": "Prospect, CT",
+      "source": "photon",
+      "query": "Prospect, Connecticut, USA"
+    },
+    "Northfield|VT": {
+      "lat": 44.14864,
+      "lon": -72.65697,
+      "label": "Northfield, VT",
+      "source": "photon",
+      "query": "Northfield, Vermont, USA"
+    },
+    "Naples|ME": {
+      "lat": 43.96946,
+      "lon": -70.60507,
+      "label": "Naples, ME",
+      "source": "photon",
+      "query": "Naples, Maine, USA"
+    },
+    "Johnston|RI": {
+      "lat": 41.83104,
+      "lon": -71.54121,
+      "label": "Johnston, RI",
+      "source": "photon",
+      "query": "Johnston, Rhode Island, USA"
+    },
+    "Shaftsbury|VT": {
+      "lat": 43.00892,
+      "lon": -73.19169,
+      "label": "Shaftsbury, VT",
+      "source": "photon",
+      "query": "Shaftsbury, Vermont, USA"
+    },
+    "Dixmont|ME": {
+      "lat": 44.68072,
+      "lon": -69.16317,
+      "label": "Dixmont, ME",
+      "source": "photon",
+      "query": "Dixmont, Maine, USA"
+    },
+    "New London|CT": {
+      "lat": 41.35562,
+      "lon": -72.09978,
+      "label": "New London, CT",
+      "source": "photon",
+      "query": "New London, Connecticut, USA"
+    },
+    "Newport|RI": {
+      "lat": 41.48676,
+      "lon": -71.31485,
+      "label": "Newport, RI",
+      "source": "photon",
+      "query": "Newport, Rhode Island, USA"
+    },
+    "Salem|MA": {
+      "lat": 42.51953,
+      "lon": -70.89672,
+      "label": "Salem, MA",
+      "source": "photon",
+      "query": "Salem, Massachusetts, USA"
+    },
+    "Brattleboro|VT": {
+      "lat": 42.85076,
+      "lon": -72.55729,
+      "label": "Brattleboro, VT",
+      "source": "photon",
+      "query": "Brattleboro, Vermont, USA"
+    },
+    "Wolfeboro|NH": {
+      "lat": 43.60938,
+      "lon": -71.17487,
+      "label": "Wolfeboro, NH",
+      "source": "photon",
+      "query": "Wolfeboro, New Hampshire, USA"
+    },
+    "Sharon|MA": {
+      "lat": 42.12373,
+      "lon": -71.17873,
+      "label": "Sharon, MA",
+      "source": "photon",
+      "query": "Sharon, Massachusetts, USA"
+    },
+    "Killington Peak|VT": {
+      "lat": 43.60455,
+      "lon": -72.82015,
+      "label": "Killington Peak, VT",
+      "source": "photon",
+      "query": "Killington Peak, Vermont, USA"
+    },
+    "Cooper|ME": {
+      "lat": 44.95952,
+      "lon": -67.43971,
+      "label": "Cooper, ME",
+      "source": "photon",
+      "query": "Cooper, Maine, USA"
+    },
+    "Livermore|ME": {
+      "lat": 44.38424,
+      "lon": -70.24933,
+      "label": "Livermore, ME",
+      "source": "photon",
+      "query": "Livermore, Maine, USA"
+    },
+    "Henniker|NH": {
+      "lat": 43.17975,
+      "lon": -71.82253,
+      "label": "Henniker, NH",
+      "source": "photon",
+      "query": "Henniker, New Hampshire, USA"
+    },
+    "Ellsworth|ME": {
+      "lat": 44.54146,
+      "lon": -68.42436,
+      "label": "Ellsworth, ME",
+      "source": "photon",
+      "query": "Ellsworth, Maine, USA"
+    },
+    "Lyman|ME": {
+      "lat": 43.49602,
+      "lon": -70.59814,
+      "label": "Lyman, ME",
+      "source": "photon",
+      "query": "Lyman, Maine, USA"
+    },
+    "Charlestown|NH": {
+      "lat": 43.23815,
+      "lon": -72.42482,
+      "label": "Charlestown, NH",
+      "source": "photon",
+      "query": "Charlestown, New Hampshire, USA"
+    },
+    "Waterville|ME": {
+      "lat": 44.55058,
+      "lon": -69.63032,
+      "label": "Waterville, ME",
+      "source": "photon",
+      "query": "Waterville, Maine, USA"
+    },
+    "Greenfield|ME": {
+      "lat": 45.04729,
+      "lon": -68.48141,
+      "label": "Greenfield, ME",
+      "source": "photon",
+      "query": "Greenfield, Maine, USA"
+    },
+    "Orrington|ME": {
+      "lat": 44.73118,
+      "lon": -68.82643,
+      "label": "Orrington, ME",
+      "source": "photon",
+      "query": "Orrington, Maine, USA"
+    },
+    "Bangor (local)|ME": {
+      "lat": 44.80163,
+      "lon": -68.77133,
+      "label": "Bangor (local), ME",
+      "source": "photon",
+      "query": "Bangor, Maine, USA"
+    },
+    "Mt. Mansfield|VT": {
+      "lat": 44.54395,
+      "lon": -72.81431,
+      "label": "Mt. Mansfield, VT",
+      "source": "photon",
+      "query": "Mount Mansfield, Vermont, USA"
+    },
+    "Morris|CT": {
+      "lat": 41.68366,
+      "lon": -73.19967,
+      "label": "Morris, CT",
+      "source": "photon",
+      "query": "Morris, Connecticut, USA"
+    },
+    "Paxton|MA": {
+      "lat": 42.31147,
+      "lon": -71.92748,
+      "label": "Paxton, MA",
+      "source": "photon",
+      "query": "Paxton, Massachusetts, USA"
+    },
+    "Tunbridge|VT": {
+      "lat": 43.8873,
+      "lon": -72.49445,
+      "label": "Tunbridge, VT",
+      "source": "photon",
+      "query": "Tunbridge, Vermont, USA"
+    },
+    "Ansonia|CT": {
+      "lat": 41.34343,
+      "lon": -73.04411,
+      "label": "Ansonia, CT",
+      "source": "photon",
+      "query": "Ansonia, Connecticut, USA"
+    },
+    "Lincoln Center|ME": {
+      "lat": 44.11376,
+      "lon": -69.53513,
+      "label": "Lincoln Center, ME",
+      "source": "photon",
+      "query": "Lincoln, Maine, USA"
+    },
+    "Leyden|MA": {
+      "lat": 42.70174,
+      "lon": -72.63053,
+      "label": "Leyden, MA",
+      "source": "photon",
+      "query": "Leyden, Massachusetts, USA"
+    },
+    "Deerfield|NH": {
+      "lat": 43.13017,
+      "lon": -71.23882,
+      "label": "Deerfield, NH",
+      "source": "photon",
+      "query": "Deerfield, New Hampshire, USA"
+    },
+    "East Haddam|CT": {
+      "lat": 41.45286,
+      "lon": -72.46133,
+      "label": "East Haddam, CT",
+      "source": "photon",
+      "query": "East Haddam, Connecticut, USA"
+    },
+    "Lawrence|MA": {
+      "lat": 42.70704,
+      "lon": -71.16311,
+      "label": "Lawrence, MA",
+      "source": "photon",
+      "query": "Lawrence, Massachusetts, USA"
+    },
+    "Mansfield|MA": {
+      "lat": 42.03343,
+      "lon": -71.21894,
+      "label": "Mansfield, MA",
+      "source": "photon",
+      "query": "Mansfield, Massachusetts, USA"
+    },
+    "Marlboro|VT": {
+      "lat": 42.85966,
+      "lon": -72.72588,
+      "label": "Marlboro, VT",
+      "source": "photon",
+      "query": "Marlboro, Vermont, USA"
+    },
+    "Bethel|CT": {
+      "lat": 41.37121,
+      "lon": -73.41401,
+      "label": "Bethel, CT",
+      "source": "photon",
+      "query": "Bethel, Connecticut, USA"
+    },
+    "Pittsfield|MA": {
+      "lat": 42.44848,
+      "lon": -73.25411,
+      "label": "Pittsfield, MA",
+      "source": "photon",
+      "query": "Pittsfield, Massachusetts, USA"
+    },
+    "Nashua|NH": {
+      "lat": 42.71031,
+      "lon": -71.45617,
+      "label": "Nashua, NH",
+      "source": "photon",
+      "query": "Nashua, New Hampshire, USA"
+    },
+    "Portland|CT": {
+      "lat": 41.57291,
+      "lon": -72.64069,
+      "label": "Portland, CT",
+      "source": "photon",
+      "query": "Portland, Connecticut, USA"
+    },
+    "Rutland|VT": {
+      "lat": 43.60848,
+      "lon": -72.97248,
+      "label": "Rutland, VT",
+      "source": "photon",
+      "query": "Rutland, Vermont, USA"
+    },
+    "Medway|MA": {
+      "lat": 42.14176,
+      "lon": -71.39673,
+      "label": "Medway, MA",
+      "source": "photon",
+      "query": "Medway, Massachusetts, USA"
+    },
+    "Walpole|NH": {
+      "lat": 43.07949,
+      "lon": -72.42595,
+      "label": "Walpole, NH",
+      "source": "photon",
+      "query": "Walpole, New Hampshire, USA"
+    },
+    "Bar Harbor|ME": {
+      "lat": 44.38764,
+      "lon": -68.20434,
+      "label": "Bar Harbor, ME",
+      "source": "photon",
+      "query": "Bar Harbor, Maine, USA"
+    },
+    "Salem|CT": {
+      "lat": 41.49127,
+      "lon": -72.27621,
+      "label": "Salem, CT",
+      "source": "photon",
+      "query": "Salem, Connecticut, USA"
+    },
+    "Francestown|NH": {
+      "lat": 42.98733,
+      "lon": -71.81264,
+      "label": "Francestown, NH",
+      "source": "photon",
+      "query": "Francestown, New Hampshire, USA"
+    },
+    "Hope|ME": {
+      "lat": 44.26536,
+      "lon": -69.15894,
+      "label": "Hope, ME",
+      "source": "photon",
+      "query": "Hope, Maine, USA"
+    },
+    "Stoneham|MA": {
+      "lat": 42.48026,
+      "lon": -71.09936,
+      "label": "Stoneham, MA",
+      "source": "photon",
+      "query": "Stoneham, Massachusetts, USA"
+    },
+    "Carmel|ME": {
+      "lat": 44.79757,
+      "lon": -69.05115,
+      "label": "Carmel, ME",
+      "source": "photon",
+      "query": "Carmel, Maine, USA"
+    },
+    "Wrentham|MA": {
+      "lat": 42.06677,
+      "lon": -71.32811,
+      "label": "Wrentham, MA",
+      "source": "photon",
+      "query": "Wrentham, Massachusetts, USA"
+    },
+    "Newfane|VT": {
+      "lat": 42.98559,
+      "lon": -72.65542,
+      "label": "Newfane, VT",
+      "source": "photon",
+      "query": "Newfane, Vermont, USA"
+    },
+    "Monson|MA": {
+      "lat": 42.10309,
+      "lon": -72.31894,
+      "label": "Monson, MA",
+      "source": "photon",
+      "query": "Monson, Massachusetts, USA"
+    },
+    "Brownville|ME": {
+      "lat": 45.34997,
+      "lon": -69.05139,
+      "label": "Brownville, ME",
+      "source": "photon",
+      "query": "Brownville, Maine, USA"
+    },
+    "East Hampton|CT": {
+      "lat": 41.5885,
+      "lon": -72.4931,
+      "label": "East Hampton, CT",
+      "source": "photon",
+      "query": "East Hampton, Connecticut, USA"
+    },
+    "Norway|ME": {
+      "lat": 44.21362,
+      "lon": -70.54234,
+      "label": "Norway, ME",
+      "source": "photon",
+      "query": "Norway, Maine, USA"
+    },
+    "Bethlehem|NH": {
+      "lat": 44.28046,
+      "lon": -71.68699,
+      "label": "Bethlehem, NH",
+      "source": "photon",
+      "query": "Bethlehem, New Hampshire, USA"
+    },
+    "Taunton|MA": {
+      "lat": 41.90193,
+      "lon": -71.09315,
+      "label": "Taunton, MA",
+      "source": "photon",
+      "query": "Taunton, Massachusetts, USA"
+    },
+    "North Scituate|RI": {
+      "lat": 41.83177,
+      "lon": -71.58729,
+      "label": "North Scituate, RI",
+      "source": "photon",
+      "query": "North Scituate, Rhode Island, USA"
+    },
+    "Billerica|MA": {
+      "lat": 42.55843,
+      "lon": -71.26895,
+      "label": "Billerica, MA",
+      "source": "photon",
+      "query": "Billerica, Massachusetts, USA"
+    },
+    "Burlington|CT": {
+      "lat": 41.76926,
+      "lon": -72.96455,
+      "label": "Burlington, CT",
+      "source": "photon",
+      "query": "Burlington, Connecticut, USA"
+    },
+    "Biddeford|ME": {
+      "lat": 43.49258,
+      "lon": -70.45338,
+      "label": "Biddeford, ME",
+      "source": "photon",
+      "query": "Biddeford, Maine, USA"
+    },
+    "Springfield|VT": {
+      "lat": 43.29882,
+      "lon": -72.48177,
+      "label": "Springfield, VT",
+      "source": "photon",
+      "query": "Springfield, Vermont, USA"
+    },
+    "Belfast|ME": {
+      "lat": 44.42618,
+      "lon": -69.00652,
+      "label": "Belfast, ME",
+      "source": "photon",
+      "query": "Belfast, Maine, USA"
+    },
+    "York|ME": {
+      "lat": 43.52801,
+      "lon": -70.42955,
+      "label": "York, ME",
+      "source": "photon",
+      "query": "York, Maine, USA"
+    },
+    "Milo|ME": {
+      "lat": 45.25344,
+      "lon": -68.98612,
+      "label": "Milo, ME",
+      "source": "photon",
+      "query": "Milo, Maine, USA"
+    },
+    "Cherryfield|ME": {
+      "lat": 44.6073,
+      "lon": -67.92584,
+      "label": "Cherryfield, ME",
+      "source": "photon",
+      "query": "Cherryfield, Maine, USA"
+    },
+    "Bridgewater|MA": {
+      "lat": 41.99022,
+      "lon": -70.97544,
+      "label": "Bridgewater, MA",
+      "source": "photon",
+      "query": "Bridgewater, Massachusetts, USA"
+    },
+    "Farmington|ME": {
+      "lat": 44.67063,
+      "lon": -70.15145,
+      "label": "Farmington, ME",
+      "source": "photon",
+      "query": "Farmington, Maine, USA"
+    },
+    "Unity|NH": {
+      "lat": 43.48491,
+      "lon": -71.6554,
+      "label": "Unity, NH",
+      "source": "photon",
+      "query": "Unity, New Hampshire, USA"
+    },
+    "Attleboro|MA": {
+      "lat": 41.98413,
+      "lon": -71.33228,
+      "label": "Attleboro, MA",
+      "source": "photon",
+      "query": "Attleboro, Massachusetts, USA"
+    },
+    "Plaistow|NH": {
+      "lat": 42.83648,
+      "lon": -71.09478,
+      "label": "Plaistow, NH",
+      "source": "photon",
+      "query": "Plaistow, New Hampshire, USA"
+    },
+    "Richmond|NH": {
+      "lat": 42.75469,
+      "lon": -72.27189,
+      "label": "Richmond, NH",
+      "source": "photon",
+      "query": "Richmond, New Hampshire, USA"
+    },
+    "Phippsburg|ME": {
+      "lat": 43.82064,
+      "lon": -69.81477,
+      "label": "Phippsburg, ME",
+      "source": "photon",
+      "query": "Phippsburg, Maine, USA"
+    },
+    "Corinth|VT": {
+      "lat": 44.04145,
+      "lon": -72.33593,
+      "label": "Corinth, VT",
+      "source": "photon",
+      "query": "Corinth, Vermont, USA"
+    },
+    "Brooklyn|CT": {
+      "lat": 41.78815,
+      "lon": -71.9498,
+      "label": "Brooklyn, CT",
+      "source": "photon",
+      "query": "Brooklyn, Connecticut, USA"
+    },
+    "Brooklyn?|CT": {
+      "lat": 41.78815,
+      "lon": -71.9498,
+      "label": "Brooklyn?, CT",
+      "source": "photon",
+      "query": "Brooklyn, Connecticut, USA"
+    },
+    "Whitman|MA": {
+      "lat": 42.08066,
+      "lon": -70.9356,
+      "label": "Whitman, MA",
+      "source": "photon",
+      "query": "Whitman, Massachusetts, USA"
+    },
+    "Livermore Falls|ME": {
+      "lat": 44.47243,
+      "lon": -70.18956,
+      "label": "Livermore Falls, ME",
+      "source": "photon",
+      "query": "Livermore Falls, Maine, USA"
+    },
+    "Westerly|RI": {
+      "lat": 41.3776,
+      "lon": -71.82729,
+      "label": "Westerly, RI",
+      "source": "photon",
+      "query": "Westerly, Rhode Island, USA"
+    },
+    "East Haven|CT": {
+      "lat": 41.27621,
+      "lon": -72.86843,
+      "label": "East Haven, CT",
+      "source": "photon",
+      "query": "East Haven, Connecticut, USA"
+    },
+    "Truro|MA": {
+      "lat": 41.99344,
+      "lon": -70.04975,
+      "label": "Truro, MA",
+      "source": "photon",
+      "query": "Truro, Massachusetts, USA"
+    },
+    "Gardiner|ME": {
+      "lat": 44.22947,
+      "lon": -69.77152,
+      "label": "Gardiner, ME",
+      "source": "photon",
+      "query": "Gardiner, Maine, USA"
+    },
+    "Perham|ME": {
+      "lat": 46.84421,
+      "lon": -68.19726,
+      "label": "Perham, ME",
+      "source": "photon",
+      "query": "Perham, Maine, USA"
+    },
+    "Wilton|NH": {
+      "lat": 42.84272,
+      "lon": -71.73677,
+      "label": "Wilton, NH",
+      "source": "photon",
+      "query": "Wilton, New Hampshire, USA"
+    },
+    "Barkhamsted|CT": {
+      "lat": 41.92926,
+      "lon": -72.91399,
+      "label": "Barkhamsted, CT",
+      "source": "photon",
+      "query": "Barkhamsted, Connecticut, USA"
+    },
+    "Westbrook|ME": {
+      "lat": 43.6763,
+      "lon": -70.36639,
+      "label": "Westbrook, ME",
+      "source": "photon",
+      "query": "Westbrook, Maine, USA"
+    },
+    "Sharon|CT": {
+      "lat": 41.87926,
+      "lon": -73.47679,
+      "label": "Sharon, CT",
+      "source": "photon",
+      "query": "Sharon, Connecticut, USA"
+    },
+    "Topsfield|MA": {
+      "lat": 42.63908,
+      "lon": -70.95075,
+      "label": "Topsfield, MA",
+      "source": "photon",
+      "query": "Topsfield, Massachusetts, USA"
+    },
+    "Cranston|RI": {
+      "lat": 41.77959,
+      "lon": -71.43668,
+      "label": "Cranston, RI",
+      "source": "photon",
+      "query": "Cranston, Rhode Island, USA"
+    },
+    "Lebanon|CT": {
+      "lat": 41.63621,
+      "lon": -72.21258,
+      "label": "Lebanon, CT",
+      "source": "photon",
+      "query": "Lebanon, Connecticut, USA"
+    },
+    "Quincy|MA": {
+      "lat": 42.25099,
+      "lon": -71.00374,
+      "label": "Quincy, MA",
+      "source": "photon",
+      "query": "Quincy, Massachusetts, USA"
+    },
+    "Danville|VT": {
+      "lat": 44.41156,
+      "lon": -72.14004,
+      "label": "Danville, VT",
+      "source": "photon",
+      "query": "Danville, Vermont, USA"
+    },
+    "Hampden|ME": {
+      "lat": 44.74452,
+      "lon": -68.83698,
+      "label": "Hampden, ME",
+      "source": "photon",
+      "query": "Hampden, Maine, USA"
+    },
+    "Winsted|CT": {
+      "lat": 41.95827,
+      "lon": -73.05085,
+      "label": "Winsted, CT",
+      "source": "photon",
+      "query": "Winsted, Connecticut, USA"
+    },
+    "Terryville|CT": {
+      "lat": 41.67777,
+      "lon": -73.00785,
+      "label": "Terryville, CT",
+      "source": "nominatim",
+      "query": "Terryville, Connecticut, USA"
+    },
+    "Poland|ME": {
+      "lat": 44.06163,
+      "lon": -70.39447,
+      "label": "Poland, ME",
+      "source": "photon",
+      "query": "Poland, Maine, USA"
+    },
+    "Groveton|NH": {
+      "lat": 44.59898,
+      "lon": -71.51123,
+      "label": "Groveton, NH",
+      "source": "photon",
+      "query": "Groveton, New Hampshire, USA"
+    },
+    "Manchester|NH": {
+      "lat": 42.99207,
+      "lon": -71.46332,
+      "label": "Manchester, NH",
+      "source": "photon",
+      "query": "Manchester, New Hampshire, USA"
+    },
+    "Brunswick|ME": {
+      "lat": 43.91665,
+      "lon": -69.96594,
+      "label": "Brunswick, ME",
+      "source": "photon",
+      "query": "Brunswick, Maine, USA"
+    },
+    "East Providence|RI": {
+      "lat": 41.81941,
+      "lon": -71.37626,
+      "label": "East Providence, RI",
+      "source": "photon",
+      "query": "East Providence, Rhode Island, USA"
+    },
+    "West Tisbury|MA": {
+      "lat": 41.38101,
+      "lon": -70.67449,
+      "label": "West Tisbury, MA",
+      "source": "photon",
+      "query": "West Tisbury, Massachusetts, USA"
+    },
+    "Weymouth|MA": {
+      "lat": 42.22122,
+      "lon": -70.93916,
+      "label": "Weymouth, MA",
+      "source": "photon",
+      "query": "Weymouth, Massachusetts, USA"
+    },
+    "Skowhegan|ME": {
+      "lat": 44.75586,
+      "lon": -69.66563,
+      "label": "Skowhegan, ME",
+      "source": "photon",
+      "query": "Skowhegan, Maine, USA"
+    },
+    "Wallingford|CT": {
+      "lat": 41.45642,
+      "lon": -72.82394,
+      "label": "Wallingford, CT",
+      "source": "photon",
+      "query": "Wallingford, Connecticut, USA"
+    },
+    "Levant|ME": {
+      "lat": 44.8695,
+      "lon": -68.93509,
+      "label": "Levant, ME",
+      "source": "photon",
+      "query": "Levant, Maine, USA"
+    },
+    "Portland|ME": {
+      "lat": 43.65736,
+      "lon": -70.25866,
+      "label": "Portland, ME",
+      "source": "nominatim",
+      "query": "Portland, Maine, USA"
+    },
+    "Gilsum|NH": {
+      "lat": 43.04801,
+      "lon": -72.26332,
+      "label": "Gilsum, NH",
+      "source": "photon",
+      "query": "Gilsum, New Hampshire, USA"
+    },
+    "Middlebury|VT": {
+      "lat": 44.0143,
+      "lon": -73.16723,
+      "label": "Middlebury, VT",
+      "source": "photon",
+      "query": "Middlebury, Vermont, USA"
+    },
+    "Springfield|ME": {
+      "lat": 45.39618,
+      "lon": -68.13557,
+      "label": "Springfield, ME",
+      "source": "photon",
+      "query": "Springfield, Maine, USA"
+    },
+    "Waldoboro|ME": {
+      "lat": 44.10925,
+      "lon": -69.37409,
+      "label": "Waldoboro, ME",
+      "source": "photon",
+      "query": "Waldoboro, Maine, USA"
+    },
+    "Beverly|MA": {
+      "lat": 42.54897,
+      "lon": -70.87819,
+      "label": "Beverly, MA",
+      "source": "photon",
+      "query": "Beverly, Massachusetts, USA"
+    },
+    "New Boston|NH": {
+      "lat": 42.97627,
+      "lon": -71.69287,
+      "label": "New Boston, NH",
+      "source": "photon",
+      "query": "New Boston, New Hampshire, USA"
+    },
+    "Moultonborough|NH": {
+      "lat": 43.75524,
+      "lon": -71.39602,
+      "label": "Moultonborough, NH",
+      "source": "photon",
+      "query": "Moultonborough, New Hampshire, USA"
+    },
+    "Glover|VT": {
+      "lat": 44.70709,
+      "lon": -72.187,
+      "label": "Glover, VT",
+      "source": "photon",
+      "query": "Glover, Vermont, USA"
+    },
+    "Woodbridge|CT": {
+      "lat": 41.3532,
+      "lon": -73.01149,
+      "label": "Woodbridge, CT",
+      "source": "photon",
+      "query": "Woodbridge, Connecticut, USA"
+    },
+    "Wilton|CT": {
+      "lat": 41.19537,
+      "lon": -73.4379,
+      "label": "Wilton, CT",
+      "source": "photon",
+      "query": "Wilton, Connecticut, USA"
+    },
+    "Goshen|CT": {
+      "lat": 41.83176,
+      "lon": -73.22511,
+      "label": "Goshen, CT",
+      "source": "photon",
+      "query": "Goshen, Connecticut, USA"
+    },
+    "New Haven|CT": {
+      "lat": 41.3086,
+      "lon": -72.8961,
+      "label": "New Haven, CT",
+      "source": "photon",
+      "query": "New Haven, Connecticut, USA"
+    },
+    "Colchester|CT": {
+      "lat": 41.57565,
+      "lon": -72.33203,
+      "label": "Colchester, CT",
+      "source": "photon",
+      "query": "Colchester, Connecticut, USA"
+    },
+    "Wolcott|CT": {
+      "lat": 41.60232,
+      "lon": -72.98677,
+      "label": "Wolcott, CT",
+      "source": "photon",
+      "query": "Wolcott, Connecticut, USA"
+    },
+    "Reading|MA": {
+      "lat": 42.52603,
+      "lon": -71.10203,
+      "label": "Reading, MA",
+      "source": "photon",
+      "query": "Reading, Massachusetts, USA"
+    },
+    "Guilford|CT": {
+      "lat": 41.28276,
+      "lon": -72.68164,
+      "label": "Guilford, CT",
+      "source": "photon",
+      "query": "Guilford, Connecticut, USA"
+    },
+    "Storrs|CT": {
+      "lat": 41.8086,
+      "lon": -72.25128,
+      "label": "Storrs, CT",
+      "source": "photon",
+      "query": "Storrs, Connecticut, USA"
+    },
+    "Westborough|MA": {
+      "lat": 42.28635,
+      "lon": -71.59503,
+      "label": "Westborough, MA",
+      "source": "photon",
+      "query": "Westborough, Massachusetts, USA"
+    },
+    "Medfield|MA": {
+      "lat": 42.18656,
+      "lon": -71.30546,
+      "label": "Medfield, MA",
+      "source": "photon",
+      "query": "Medfield, Massachusetts, USA"
+    },
+    "Watertown|CT": {
+      "lat": 41.60621,
+      "lon": -73.11817,
+      "label": "Watertown, CT",
+      "source": "photon",
+      "query": "Watertown, Connecticut, USA"
+    },
+    "Dublin|NH": {
+      "lat": 42.90594,
+      "lon": -72.06198,
+      "label": "Dublin, NH",
+      "source": "photon",
+      "query": "Dublin, New Hampshire, USA"
+    },
+    "Washington|CT": {
+      "lat": 41.63056,
+      "lon": -73.31127,
+      "label": "Washington, CT",
+      "source": "photon",
+      "query": "Washington, Connecticut, USA"
+    },
+    "Leominster|MA": {
+      "lat": 42.52674,
+      "lon": -71.76149,
+      "label": "Leominster, MA",
+      "source": "photon",
+      "query": "Leominster, Massachusetts, USA"
+    },
+    "Stafford|CT": {
+      "lat": 41.9852,
+      "lon": -72.28958,
+      "label": "Stafford, CT",
+      "source": "photon",
+      "query": "Stafford, Connecticut, USA"
+    },
+    "Portsmouth|NH": {
+      "lat": 42.99592,
+      "lon": -70.92301,
+      "label": "Portsmouth, NH",
+      "source": "photon",
+      "query": "Portsmouth, New Hampshire, USA"
+    },
+    "Plymouth|ME": {
+      "lat": 44.76729,
+      "lon": -69.21033,
+      "label": "Plymouth, ME",
+      "source": "photon",
+      "query": "Plymouth, Maine, USA"
+    },
+    "Londonderry|NH": {
+      "lat": 42.86509,
+      "lon": -71.37395,
+      "label": "Londonderry, NH",
+      "source": "photon",
+      "query": "Londonderry, New Hampshire, USA"
+    },
+    "Lowell|MA": {
+      "lat": 42.64144,
+      "lon": -71.30853,
+      "label": "Lowell, MA",
+      "source": "photon",
+      "query": "Lowell, Massachusetts, USA"
+    },
+    "Newbury|NH": {
+      "lat": 43.32131,
+      "lon": -72.0363,
+      "label": "Newbury, NH",
+      "source": "photon",
+      "query": "Newbury, New Hampshire, USA"
+    },
+    "Avon|CT": {
+      "lat": 41.80982,
+      "lon": -72.83065,
+      "label": "Avon, CT",
+      "source": "photon",
+      "query": "Avon, Connecticut, USA"
+    },
+    "Seymour|CT": {
+      "lat": 41.39436,
+      "lon": -73.07417,
+      "label": "Seymour, CT",
+      "source": "photon",
+      "query": "Seymour, Connecticut, USA"
+    },
+    "Enfield|CT": {
+      "lat": 41.97677,
+      "lon": -72.59171,
+      "label": "Enfield, CT",
+      "source": "photon",
+      "query": "Enfield, Connecticut, USA"
+    },
+    "Rehoboth|MA": {
+      "lat": 41.84038,
+      "lon": -71.24949,
+      "label": "Rehoboth, MA",
+      "source": "photon",
+      "query": "Rehoboth, Massachusetts, USA"
+    },
+    "New Ipswich|NH": {
+      "lat": 42.74814,
+      "lon": -71.85424,
+      "label": "New Ipswich, NH",
+      "source": "photon",
+      "query": "New Ipswich, New Hampshire, USA"
+    },
+    "Sherman|ME": {
+      "lat": 45.87278,
+      "lon": -68.38661,
+      "label": "Sherman, ME",
+      "source": "photon",
+      "query": "Sherman, Maine, USA"
+    },
+    "Greene|ME": {
+      "lat": 44.18981,
+      "lon": -70.14049,
+      "label": "Greene, ME",
+      "source": "photon",
+      "query": "Greene, Maine, USA"
+    },
+    "Stafford Springs|CT": {
+      "lat": 41.95385,
+      "lon": -72.30314,
+      "label": "Stafford Springs, CT",
+      "source": "photon",
+      "query": "Stafford Springs, Connecticut, USA"
+    },
+    "West Lebanon|NH": {
+      "lat": 43.64828,
+      "lon": -72.31028,
+      "label": "West Lebanon, NH",
+      "source": "photon",
+      "query": "West Lebanon, New Hampshire, USA"
+    },
+    "Mason|NH": {
+      "lat": 42.74299,
+      "lon": -71.76888,
+      "label": "Mason, NH",
+      "source": "photon",
+      "query": "Mason, New Hampshire, USA"
+    },
+    "Belchertown|MA": {
+      "lat": 42.27727,
+      "lon": -72.4008,
+      "label": "Belchertown, MA",
+      "source": "photon",
+      "query": "Belchertown, Massachusetts, USA"
+    },
+    "Union|CT": {
+      "lat": 41.99113,
+      "lon": -72.15781,
+      "label": "Union, CT",
+      "source": "photon",
+      "query": "Union, Connecticut, USA"
+    },
+    "Monkton|VT": {
+      "lat": 44.2545,
+      "lon": -73.12429,
+      "label": "Monkton, VT",
+      "source": "photon",
+      "query": "Monkton, Vermont, USA"
+    },
+    "Epsom|NH": {
+      "lat": 43.22319,
+      "lon": -71.33217,
+      "label": "Epsom, NH",
+      "source": "photon",
+      "query": "Epsom, New Hampshire, USA"
+    },
+    "Auburn|MA": {
+      "lat": 42.19455,
+      "lon": -71.83581,
+      "label": "Auburn, MA",
+      "source": "photon",
+      "query": "Auburn, Massachusetts, USA"
+    },
+    "White River Jct|VT": {
+      "lat": 43.64884,
+      "lon": -72.31936,
+      "label": "White River Jct, VT",
+      "source": "photon",
+      "query": "White River Junction, Vermont, USA"
+    },
+    "South Killingly|CT": {
+      "lat": 41.79121,
+      "lon": -71.83313,
+      "label": "South Killingly, CT",
+      "source": "photon",
+      "query": "South Killingly, Connecticut, USA"
+    },
+    "Southwest Harbor|ME": {
+      "lat": 44.27975,
+      "lon": -68.32591,
+      "label": "Southwest Harbor, ME",
+      "source": "photon",
+      "query": "Southwest Harbor, Maine, USA"
+    },
+    "North Andover|MA": {
+      "lat": 42.70297,
+      "lon": -71.13091,
+      "label": "North Andover, MA",
+      "source": "photon",
+      "query": "North Andover, Massachusetts, USA"
+    },
+    "Greenville|ME": {
+      "lat": 45.45896,
+      "lon": -69.59168,
+      "label": "Greenville, ME",
+      "source": "photon",
+      "query": "Greenville, Maine, USA"
+    },
+    "Cornwall|CT": {
+      "lat": 41.84371,
+      "lon": -73.32928,
+      "label": "Cornwall, CT",
+      "source": "photon",
+      "query": "Cornwall, Connecticut, USA"
+    },
+    "Middletown|RI": {
+      "lat": 41.54566,
+      "lon": -71.29144,
+      "label": "Middletown, RI",
+      "source": "photon",
+      "query": "Middletown, Rhode Island, USA"
+    },
+    "Haddam|CT": {
+      "lat": 41.48034,
+      "lon": -72.51606,
+      "label": "Haddam, CT",
+      "source": "photon",
+      "query": "Haddam, Connecticut, USA"
+    },
+    "Pico Peak|VT": {
+      "lat": 43.63942,
+      "lon": -72.83642,
+      "label": "Pico Peak, VT",
+      "source": "photon",
+      "query": "Pico Peak, Vermont, USA"
+    },
+    "Foster|RI": {
+      "lat": 41.85378,
+      "lon": -71.75838,
+      "label": "Foster, RI",
+      "source": "photon",
+      "query": "Foster, Rhode Island, USA"
+    },
+    "Harwinton|CT": {
+      "lat": 41.77121,
+      "lon": -73.05983,
+      "label": "Harwinton, CT",
+      "source": "photon",
+      "query": "Harwinton, Connecticut, USA"
+    },
+    "Wenham|MA": {
+      "lat": 42.60462,
+      "lon": -70.88735,
+      "label": "Wenham, MA",
+      "source": "photon",
+      "query": "Wenham, Massachusetts, USA"
+    },
+    "Chesterfield|NH": {
+      "lat": 42.8873,
+      "lon": -72.47037,
+      "label": "Chesterfield, NH",
+      "source": "photon",
+      "query": "Chesterfield, New Hampshire, USA"
+    },
+    "New Durham|NH": {
+      "lat": 43.43697,
+      "lon": -71.17287,
+      "label": "New Durham, NH",
+      "source": "photon",
+      "query": "New Durham, New Hampshire, USA"
+    },
+    "Burrillville|RI": {
+      "lat": 41.96998,
+      "lon": -71.69779,
+      "label": "Burrillville, RI",
+      "source": "photon",
+      "query": "Burrillville, Rhode Island, USA"
+    },
+    "Roxbury|CT": {
+      "lat": 41.55683,
+      "lon": -73.30889,
+      "label": "Roxbury, CT",
+      "source": "photon",
+      "query": "Roxbury, Connecticut, USA"
+    },
+    "Mendon|VT": {
+      "lat": 43.65137,
+      "lon": -72.92753,
+      "label": "Mendon, VT",
+      "source": "photon",
+      "query": "Mendon, Vermont, USA"
+    },
+    "Enfield|NH": {
+      "lat": 43.64469,
+      "lon": -72.14359,
+      "label": "Enfield, NH",
+      "source": "photon",
+      "query": "Enfield, New Hampshire, USA"
+    },
+    "Middlebury|CT": {
+      "lat": 41.52787,
+      "lon": -73.12831,
+      "label": "Middlebury, CT",
+      "source": "photon",
+      "query": "Middlebury, Connecticut, USA"
+    },
+    "Sterling|CT": {
+      "lat": 41.7076,
+      "lon": -71.82868,
+      "label": "Sterling, CT",
+      "source": "photon",
+      "query": "Sterling, Connecticut, USA"
+    },
+    "Somers|CT": {
+      "lat": 41.9856,
+      "lon": -72.4474,
+      "label": "Somers, CT",
+      "source": "photon",
+      "query": "Somers, Connecticut, USA"
+    },
+    "Mt. Snow|VT": {
+      "lat": 42.95925,
+      "lon": -72.92376,
+      "label": "Mt. Snow, VT",
+      "source": "photon",
+      "query": "Mount Snow, Vermont, USA"
+    },
+    "Natick|MA": {
+      "lat": 42.28364,
+      "lon": -71.347,
+      "label": "Natick, MA",
+      "source": "photon",
+      "query": "Natick, Massachusetts, USA"
+    },
+    "Center Barnstead|NH": {
+      "lat": 43.33925,
+      "lon": -71.25951,
+      "label": "Center Barnstead, NH",
+      "source": "photon",
+      "query": "Center Barnstead, New Hampshire, USA"
+    },
+    "Acworth|NH": {
+      "lat": 43.21815,
+      "lon": -72.29315,
+      "label": "Acworth, NH",
+      "source": "photon",
+      "query": "Acworth, New Hampshire, USA"
+    },
+    "Mystic|CT": {
+      "lat": 41.35424,
+      "lon": -71.9664,
+      "label": "Mystic, CT",
+      "source": "photon",
+      "query": "Mystic, Connecticut, USA"
+    },
+    "New Britain|CT": {
+      "lat": 41.66121,
+      "lon": -72.77954,
+      "label": "New Britain, CT",
+      "source": "nominatim",
+      "query": "New Britain, Connecticut, USA"
+    },
+    "Greenland|NH": {
+      "lat": 43.0362,
+      "lon": -70.83283,
+      "label": "Greenland, NH",
+      "source": "photon",
+      "query": "Greenland, New Hampshire, USA"
+    },
+    "Westfield|MA": {
+      "lat": 42.12054,
+      "lon": -72.74892,
+      "label": "Westfield, MA",
+      "source": "photon",
+      "query": "Westfield, Massachusetts, USA"
+    },
+    "Milford|MA": {
+      "lat": 42.14289,
+      "lon": -71.51646,
+      "label": "Milford, MA",
+      "source": "photon",
+      "query": "Milford, Massachusetts, USA"
+    },
+    "Middletown|CT": {
+      "lat": 41.56232,
+      "lon": -72.65091,
+      "label": "Middletown, CT",
+      "source": "photon",
+      "query": "Middletown, Connecticut, USA"
+    },
+    "Middlefield/Durham|CT": {
+      "lat": 41.51652,
+      "lon": -72.71208,
+      "label": "Middlefield/Durham, CT",
+      "source": "photon",
+      "query": "Middlefield, Connecticut, USA"
+    },
+    "Middlefield|CT": {
+      "lat": 41.51652,
+      "lon": -72.71208,
+      "label": "Middlefield, CT",
+      "source": "photon",
+      "query": "Middlefield, Connecticut, USA"
+    },
+    "Durham|CT": {
+      "lat": 41.48176,
+      "lon": -72.68121,
+      "label": "Durham, CT",
+      "source": "photon",
+      "query": "Durham, Connecticut, USA"
+    },
+    "Shelton|CT": {
+      "lat": 41.37199,
+      "lon": -73.15264,
+      "label": "Shelton, CT",
+      "source": "photon",
+      "query": "Shelton, Connecticut, USA"
+    },
+    "Warwick|RI": {
+      "lat": 41.69927,
+      "lon": -71.45861,
+      "label": "Warwick, RI",
+      "source": "photon",
+      "query": "Warwick, Rhode Island, USA"
+    },
+    "Mont Vernon|NH": {
+      "lat": 42.89453,
+      "lon": -71.67424,
+      "label": "Mont Vernon, NH",
+      "source": "photon",
+      "query": "Mont Vernon, New Hampshire, USA"
+    },
+    "Charlestown|RI": {
+      "lat": 41.38316,
+      "lon": -71.64173,
+      "label": "Charlestown, RI",
+      "source": "photon",
+      "query": "Charlestown, Rhode Island, USA"
+    },
+    "North Smithfield|RI": {
+      "lat": 41.96677,
+      "lon": -71.54951,
+      "label": "North Smithfield, RI",
+      "source": "photon",
+      "query": "North Smithfield, Rhode Island, USA"
+    },
+    "Hopkinton|MA": {
+      "lat": 42.22889,
+      "lon": -71.51964,
+      "label": "Hopkinton, MA",
+      "source": "photon",
+      "query": "Hopkinton, Massachusetts, USA"
+    },
+    "Orange|CT": {
+      "lat": 41.25385,
+      "lon": -73.01634,
+      "label": "Orange, CT",
+      "source": "photon",
+      "query": "Orange, Connecticut, USA"
+    },
+    "Temple Mountain|NH": {
+      "lat": 42.84097,
+      "lon": -71.88626,
+      "label": "Temple Mountain, NH",
+      "source": "photon",
+      "query": "Temple Mountain, New Hampshire, USA"
+    },
+    "Newmarket|NH": {
+      "lat": 43.07962,
+      "lon": -70.93578,
+      "label": "Newmarket, NH",
+      "source": "photon",
+      "query": "Newmarket, New Hampshire, USA"
+    },
+    "N. Attleborough|MA": {
+      "lat": 41.98413,
+      "lon": -71.33228,
+      "label": "N. Attleborough, MA",
+      "source": "photon",
+      "query": "North Attleborough, Massachusetts, USA"
+    },
+    "Farmington|CT": {
+      "lat": 41.71982,
+      "lon": -72.83204,
+      "label": "Farmington, CT",
+      "source": "photon",
+      "query": "Farmington, Connecticut, USA"
+    },
+    "Burke|VT": {
+      "lat": 44.64153,
+      "lon": -71.97969,
+      "label": "Burke, VT",
+      "source": "photon",
+      "query": "Burke, Vermont, USA"
+    },
+    "Windham|ME": {
+      "lat": 43.78942,
+      "lon": -70.40834,
+      "label": "Windham, ME",
+      "source": "photon",
+      "query": "Windham, Maine, USA"
+    },
+    "Belgrade Lakes|ME": {
+      "lat": 44.52645,
+      "lon": -69.887,
+      "label": "Belgrade Lakes, ME",
+      "source": "photon",
+      "query": "Belgrade Lakes, Maine, USA"
+    },
+    "Greenville|NH": {
+      "lat": 42.76731,
+      "lon": -71.8123,
+      "label": "Greenville, NH",
+      "source": "photon",
+      "query": "Greenville, New Hampshire, USA"
+    },
+    "Branford|CT": {
+      "lat": 41.27954,
+      "lon": -72.8151,
+      "label": "Branford, CT",
+      "source": "photon",
+      "query": "Branford, Connecticut, USA"
+    },
+    "Loudon|NH": {
+      "lat": 43.35982,
+      "lon": -71.462,
+      "label": "Loudon, NH",
+      "source": "photon",
+      "query": "Loudon, New Hampshire, USA"
+    },
+    "Harpswell|ME": {
+      "lat": 43.79955,
+      "lon": -69.98767,
+      "label": "Harpswell, ME",
+      "source": "photon",
+      "query": "Harpswell, Maine, USA"
+    },
+    "Northford|CT": {
+      "lat": 41.39362,
+      "lon": -72.79149,
+      "label": "Northford, CT",
+      "source": "photon",
+      "query": "Northford, Connecticut, USA"
+    },
+    "Pack Monadnock|NH": {
+      "lat": 42.86198,
+      "lon": -71.87858,
+      "label": "Pack Monadnock, NH",
+      "source": "photon",
+      "query": "Pack Monadnock, Peterborough, New Hampshire, USA"
+    },
+    "Fayston|VT": {
+      "lat": 44.242,
+      "lon": -72.83817,
+      "label": "Fayston, VT",
+      "source": "photon",
+      "query": "Fayston, Vermont, USA"
+    },
+    "Westport|MA": {
+      "lat": 41.62204,
+      "lon": -71.07802,
+      "label": "Westport, MA",
+      "source": "photon",
+      "query": "Westport, Massachusetts, USA"
+    },
+    "Cabot|VT": {
+      "lat": 44.40288,
+      "lon": -72.31045,
+      "label": "Cabot, VT",
+      "source": "photon",
+      "query": "Cabot, Vermont, USA"
+    },
+    "Cambridge|MA": {
+      "lat": 42.36563,
+      "lon": -71.104,
+      "label": "Cambridge, MA",
+      "source": "photon",
+      "query": "Cambridge, Massachusetts, USA"
+    },
+    "Woburn|MA": {
+      "lat": 42.48305,
+      "lon": -71.15627,
+      "label": "Woburn, MA",
+      "source": "photon",
+      "query": "Woburn, Massachusetts, USA"
+    },
+    "Coventry|CT": {
+      "lat": 41.7701,
+      "lon": -72.30508,
+      "label": "Coventry, CT",
+      "source": "photon",
+      "query": "Coventry, Connecticut, USA"
+    },
+    "West Rutland|VT": {
+      "lat": 43.59324,
+      "lon": -73.04598,
+      "label": "West Rutland, VT",
+      "source": "photon",
+      "query": "West Rutland, Vermont, USA"
+    },
+    "Rockland|ME": {
+      "lat": 44.10483,
+      "lon": -69.10918,
+      "label": "Rockland, ME",
+      "source": "photon",
+      "query": "Rockland, Maine, USA"
+    },
+    "Waterbury|CT": {
+      "lat": 41.55381,
+      "lon": -73.04384,
+      "label": "Waterbury, CT",
+      "source": "photon",
+      "query": "Waterbury, Connecticut, USA"
+    },
+    "West Bridgewater|MA": {
+      "lat": 42.01909,
+      "lon": -71.00797,
+      "label": "West Bridgewater, MA",
+      "source": "photon",
+      "query": "West Bridgewater, Massachusetts, USA"
+    },
+    "Hanson|MA": {
+      "lat": 42.07531,
+      "lon": -70.88006,
+      "label": "Hanson, MA",
+      "source": "photon",
+      "query": "Hanson, Massachusetts, USA"
+    },
+    "Littleton|MA": {
+      "lat": 42.53759,
+      "lon": -71.51201,
+      "label": "Littleton, MA",
+      "source": "photon",
+      "query": "Littleton, Massachusetts, USA"
+    },
+    "Abington|MA": {
+      "lat": 42.10482,
+      "lon": -70.94532,
+      "label": "Abington, MA",
+      "source": "photon",
+      "query": "Abington, Massachusetts, USA"
+    },
+    "Georgetown|MA": {
+      "lat": 42.72456,
+      "lon": -70.99197,
+      "label": "Georgetown, MA",
+      "source": "photon",
+      "query": "Georgetown, Massachusetts, USA"
+    },
+    "Newport|ME": {
+      "lat": 44.83534,
+      "lon": -69.27394,
+      "label": "Newport, ME",
+      "source": "photon",
+      "query": "Newport, Maine, USA"
+    },
+    "Topsham|ME": {
+      "lat": 43.92474,
+      "lon": -69.96354,
+      "label": "Topsham, ME",
+      "source": "photon",
+      "query": "Topsham, Maine, USA"
+    },
+    "Shelburne|VT": {
+      "lat": 44.37835,
+      "lon": -73.22762,
+      "label": "Shelburne, VT",
+      "source": "photon",
+      "query": "Shelburne, Vermont, USA"
+    },
+    "Sebec|ME": {
+      "lat": 45.27144,
+      "lon": -69.11671,
+      "label": "Sebec, ME",
+      "source": "photon",
+      "query": "Sebec, Maine, USA"
+    },
+    "Peabody|MA": {
+      "lat": 42.5259,
+      "lon": -70.92724,
+      "label": "Peabody, MA",
+      "source": "photon",
+      "query": "Peabody, Massachusetts, USA"
+    },
+    "West Arlington|VT": {
+      "lat": 43.10341,
+      "lon": -73.21261,
+      "label": "West Arlington, VT",
+      "source": "photon",
+      "query": "West Arlington, Vermont, USA"
+    },
+    "Wakefield|MA": {
+      "lat": 42.50648,
+      "lon": -71.07283,
+      "label": "Wakefield, MA",
+      "source": "photon",
+      "query": "Wakefield, Massachusetts, USA"
+    },
+    "Wellesley|MA": {
+      "lat": 42.29649,
+      "lon": -71.29256,
+      "label": "Wellesley, MA",
+      "source": "photon",
+      "query": "Wellesley, Massachusetts, USA"
+    },
+    "Frenchville|ME": {
+      "lat": 47.28109,
+      "lon": -68.38028,
+      "label": "Frenchville, ME",
+      "source": "photon",
+      "query": "Frenchville, Maine, USA"
+    },
+    "Richmond|RI": {
+      "lat": 41.49983,
+      "lon": -71.66026,
+      "label": "Richmond, RI",
+      "source": "photon",
+      "query": "Richmond, Rhode Island, USA"
+    },
+    "Nobleboro|ME": {
+      "lat": 44.07951,
+      "lon": -69.48508,
+      "label": "Nobleboro, ME",
+      "source": "photon",
+      "query": "Nobleboro, Maine, USA"
+    },
+    "Corinna|ME": {
+      "lat": 44.92102,
+      "lon": -69.26129,
+      "label": "Corinna, ME",
+      "source": "photon",
+      "query": "Corinna, Maine, USA"
+    },
+    "Hebron|ME": {
+      "lat": 44.19819,
+      "lon": -70.40701,
+      "label": "Hebron, ME",
+      "source": "photon",
+      "query": "Hebron, Maine, USA"
+    },
+    "North Branford|CT": {
+      "lat": 41.3276,
+      "lon": -72.76732,
+      "label": "North Branford, CT",
+      "source": "photon",
+      "query": "North Branford, Connecticut, USA"
+    },
+    "Hebron|CT": {
+      "lat": 41.65825,
+      "lon": -72.36463,
+      "label": "Hebron, CT",
+      "source": "photon",
+      "query": "Hebron, Connecticut, USA"
+    },
+    "Middleborough|MA": {
+      "lat": 41.89316,
+      "lon": -70.91115,
+      "label": "Middleborough, MA",
+      "source": "photon",
+      "query": "Middleborough, Massachusetts, USA"
+    },
+    "Dighton|MA": {
+      "lat": 41.81449,
+      "lon": -71.11961,
+      "label": "Dighton, MA",
+      "source": "photon",
+      "query": "Dighton, Massachusetts, USA"
+    },
+    "Wells|VT": {
+      "lat": 43.41717,
+      "lon": -73.20352,
+      "label": "Wells, VT",
+      "source": "photon",
+      "query": "Wells, Vermont, USA"
+    },
+    "Douglas|MA": {
+      "lat": 42.05317,
+      "lon": -71.73977,
+      "label": "Douglas, MA",
+      "source": "photon",
+      "query": "Douglas, Massachusetts, USA"
+    }
+  }
+}

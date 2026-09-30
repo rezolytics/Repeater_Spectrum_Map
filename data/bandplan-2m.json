@@ -1,0 +1,34 @@
+{
+  "id": "2m",
+  "name": "2 Meters",
+  "minHz": 144000000,
+  "maxHz": 148000000,
+  "defaultOffsetHz": 600000,
+  "channelWidthHz": 15000,
+  "markers": [
+    { "hz": 144200000, "label": "144.200 SSB calling" },
+    { "hz": 146520000, "label": "146.520 national simplex" }
+  ],
+  "segments": [
+    { "startHz": 144000000, "endHz": 144050000, "id": "eme-cw", "label": "EME CW", "kind": "weak" },
+    { "startHz": 144050000, "endHz": 144100000, "id": "cw-weak", "label": "CW / weak", "kind": "weak" },
+    { "startHz": 144100000, "endHz": 144200000, "id": "eme-ssb", "label": "EME / SSB", "kind": "ssb" },
+    { "startHz": 144200000, "endHz": 144275000, "id": "ssb", "label": "SSB", "kind": "ssb" },
+    { "startHz": 144275000, "endHz": 144300000, "id": "beacons", "label": "Beacons", "kind": "beacon" },
+    { "startHz": 144300000, "endHz": 144500000, "id": "oscar-low", "label": "OSCAR", "kind": "satellite" },
+    { "startHz": 144500000, "endHz": 144600000, "id": "lin-in", "label": "Translator in", "kind": "translator-in" },
+    { "startHz": 144600000, "endHz": 144900000, "id": "rptr-in-low", "label": "Repeater inputs", "kind": "repeater-in" },
+    { "startHz": 144900000, "endHz": 145100000, "id": "simplex-low", "label": "Simplex / packet", "kind": "simplex" },
+    { "startHz": 145100000, "endHz": 145200000, "id": "lin-out", "label": "Translator out", "kind": "translator-out" },
+    { "startHz": 145200000, "endHz": 145500000, "id": "rptr-out-low", "label": "Repeater outputs", "kind": "repeater-out" },
+    { "startHz": 145500000, "endHz": 145800000, "id": "experimental", "label": "Experimental", "kind": "experimental" },
+    { "startHz": 145800000, "endHz": 146000000, "id": "oscar-mid", "label": "OSCAR", "kind": "satellite" },
+    { "startHz": 146000000, "endHz": 146400000, "id": "rptr-in-mid", "label": "Repeater inputs", "kind": "repeater-in" },
+    { "startHz": 146400000, "endHz": 146580000, "id": "simplex-mid", "label": "Simplex", "kind": "simplex" },
+    { "startHz": 146580000, "endHz": 146610000, "id": "guard-mid", "label": "", "kind": "gap" },
+    { "startHz": 146610000, "endHz": 146995000, "id": "rptr-out-mid", "label": "Repeater outputs", "kind": "repeater-out" },
+    { "startHz": 146995000, "endHz": 147400000, "id": "rptr-out-high", "label": "Repeater outputs", "kind": "repeater-out" },
+    { "startHz": 147400000, "endHz": 147600000, "id": "simplex-high", "label": "Simplex", "kind": "simplex" },
+    { "startHz": 147600000, "endHz": 148000000, "id": "rptr-in-high", "label": "Repeater inputs", "kind": "repeater-in" }
+  ]
+}

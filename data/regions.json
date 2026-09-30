@@ -1,0 +1,62 @@
+{
+  "sources": [
+    {
+      "id": "ne",
+      "label": "NERepeaters.csv",
+      "href": "https://www.nerepeaters.com/NERepeaters.php",
+      "directory": "New England Repeater Directory",
+      "home": "https://www.nerepeaters.com/",
+      "place": "Connecticut, Massachusetts, Maine, New Hampshire, Rhode Island, Vermont"
+    },
+    {
+      "id": "nyc",
+      "label": "NYCRepeaters.csv",
+      "href": "https://www.nyrepeaters.com/NYCRepeaters.php",
+      "directory": "New York Repeater Directory",
+      "home": "https://www.nyrepeaters.com/",
+      "place": "New York City & Long Island"
+    },
+    {
+      "id": "eny",
+      "label": "ENYRepeaters.csv",
+      "href": "https://www.nyrepeaters.com/ENYRepeaters.php",
+      "directory": "New York Repeater Directory",
+      "home": "https://www.nyrepeaters.com/",
+      "place": "Eastern New York"
+    }
+  ],
+  "regions": [
+    {
+      "id": "ne",
+      "name": "New England",
+      "title": "New England Repeater Spectrum Map",
+      "directory": "New England Repeater Directory",
+      "home": "https://www.nerepeaters.com/",
+      "statsLabel": "NERepeaters.csv",
+      "states": ["CT", "MA", "ME", "NH", "RI", "VT"],
+      "bounds": [[40.95, -73.75], [47.45, -66.95]],
+      "repeaters": "data/repeaters.json",
+      "locations": "data/locations.json",
+      "sourceIds": ["ne"],
+      "mapHint": "Pins sit at directory city or summit names, not exact towers · click a pin for every machine at that site"
+    },
+    {
+      "id": "ny",
+      "name": "New York",
+      "title": "New York Repeater Spectrum Map",
+      "directory": "New York Repeater Directory",
+      "home": "https://www.nyrepeaters.com/",
+      "statsLabel": "NYCRepeaters.csv + ENYRepeaters.csv",
+      "states": ["NY", "NJ", "CT"],
+      "bounds": [[39.45, -76.8], [45.15, -71.65]],
+      "repeaters": "data/ny/repeaters.json",
+      "locations": "data/ny/locations.json",
+      "sourceIds": ["nyc", "eny"],
+      "areas": [
+        {"id": "nyc", "label": "NYC & Long Island"},
+        {"id": "eny", "label": "Eastern NY"}
+      ],
+      "mapHint": "Pins sit at directory city names, not exact towers. NYC & Long Island includes nearby New Jersey listings from that CSV · click a pin for every machine at that site"
+    }
+  ]
+}
